@@ -15,6 +15,16 @@ export const removeOwned = (figureId) => ({
   figureId
 })
 
+export const addWanted = (figure) => ({
+  type: 'ADD_WANTED',
+  figure
+})
+
+export const removeWanted = (figureId) => ({
+  type: 'REMOVE_WANTED',
+  figureId
+})
+
 export const setVisibilityFilter = (filter) => ({
   type: 'SET_VISIBILITY_FILTER',
   filter
