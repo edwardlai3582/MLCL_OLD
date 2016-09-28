@@ -1,0 +1,179 @@
+{
+    "Hasbro": {
+        "series": [
+            {
+                "seriesname": "Terrax Series",
+                "date": "201201",
+                "figures": [
+                    {
+                        "id": "TerraxCommanderSteveRogers",
+                        "name": "Commander Steve Rogers",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxCommanderSteveRogers-ClearShieldVariant",
+                        "name": "Commander Steve Rogers - Clear Shield Variant",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxConstrictor",
+                        "name": "Constrictor",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxGhostRider",
+                        "name": "Ghost Rider",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxGhostRider-YellowFlamesVariant",
+                        "name": "Ghost Rider - Yellow Flames Variant",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxHopeSummers",
+                        "name": "Hope Summers",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxIronManExtemisArmor",
+                        "name": "Iron Man Extemis Armor",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxIronManExtremis-StealthArmorVariant",
+                        "name": "Iron Man Extremis - Stealth Armor Variant",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxKlaw",
+                        "name": "Klaw",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxTerraxBAF",
+                        "name": "Terrax BAF",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TerraxThor",
+                        "name": "Thor",
+                        "series": "Terrax Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Arnim Zola Series",
+                "date": "201202",
+                "figures": [
+                    {
+                        "id": "ArnimZolaArnimZolaBAF",
+                        "name": "Arnim Zola BAF",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaHeroicAgeCaptainAmerica",
+                        "name": "Heroic Age Captain America",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaDaken",
+                        "name": "Daken",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaUnmaskedDakenVariant",
+                        "name": "Unmasked Daken Variant",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaDraxTheDestroyer",
+                        "name": "Drax The Destroyer",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaFantomex",
+                        "name": "Fantomex",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaMadameHydraVariant",
+                        "name": "Madame Hydra Variant",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaMadameMasque",
+                        "name": "Madame Masque",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaPiledriverVariant",
+                        "name": "Piledriver Variant",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaBig-TimeSpider-Man",
+                        "name": "Big-Time Spider-Man",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaFutureFoundationSpider-ManVariant",
+                        "name": "Future Foundation Spider-Man Variant",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaThunderball",
+                        "name": "Thunderball",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }            
+        ]
+    }
+}
