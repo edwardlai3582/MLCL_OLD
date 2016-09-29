@@ -29,7 +29,7 @@ let WantList = ({ dispatch, wanted}) => {
                     <li key={figure.id}>
                         {figure.name}
                         <button onClick={() => {dispatch(removeWanted(figure.id))}} >
-                            {'Remove from Want list'}
+                            {'Remove'}
                         </button>
                     </li>
                 )}       

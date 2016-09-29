@@ -7,6 +7,7 @@ import TopLevel from './components/TopLevel'
 import App from './components/App'
 import CheckList from './components/CheckList'
 import WantList from './containers/WantList'
+import HomePage from './containers/HomePage'
 import reducer from './reducers'
 
 import { persistStore, autoRehydrate } from 'redux-persist'
@@ -19,7 +20,7 @@ render(
   <Provider store={store}>
       <Router history={browserHistory}>
         <Route path="/" component={TopLevel}>
-          <IndexRoute component={App}/>
+          <IndexRoute component={HomePage}/>
           <Route path="checkList" component={CheckList}/>
           <Route path="wantList" component={WantList}/>    
         </Route>
