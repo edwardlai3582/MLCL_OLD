@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router'
 import '../styles/TopLevel.css'
+import NavLink from './NavLink'
 
 const TopLevel = ({children}) => (
     <div>
@@ -17,16 +18,8 @@ const TopLevel = ({children}) => (
             </h1>
             <nav>
                 <ul>
-                    <li>
-                        <Link activeClassName="linkActive" className="linkClass" to="/checkList">
-                            CHECKLIST
-                        </Link>
-                    </li>
-                    <li>
-                        <Link activeClassName="linkActive" className="linkClass" to="/wantList">
-                            WANTLIST
-                        </Link>
-                    </li>
+                    <li><NavLink to="/checkList" displayName="CHECKLIST" /></li>
+                    <li><NavLink to="/wantList"  displayName="WANTLIST"  /></li>
                 </ul>
             </nav>
         </header>
