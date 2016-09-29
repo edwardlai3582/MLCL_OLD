@@ -8,6 +8,7 @@ const App = ({children}) => (
         <ul>
           <li><Link to="/">list</Link></li>
           <li><Link to="/checkList">CheckList</Link></li>
+          <li><Link to="/wantList">WantList</Link></li>
         </ul>
       </div>
     {children}
