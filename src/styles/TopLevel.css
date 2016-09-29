@@ -1,0 +1,76 @@
+ @import 'https://fonts.googleapis.com/css?family=Catamaran:700';
+
+html, body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+    width: 100%;
+    position: relative;
+}
+
+header {
+    background-color: black;
+    color: #D3F9EA;
+    padding: 1% 2%;
+    
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+}
+
+header h1 {
+    margin: 0;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.headerAbbr {
+    display: none;    
+}
+
+.headerNotAbbr {
+    display: inline;
+}
+
+@media only screen and (max-width: 680px) {
+    .headerAbbr {
+        display: inline;    
+    }
+
+    .headerNotAbbr {
+        display: none;
+    }
+}
+
+nav ul {
+	list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0;
+    margin-left: 10px;
+    padding: 0;
+    display: inline;
+}
+
+@media only screen and (max-width: 350px) {
+    nav li {
+        font-size: 12px;    
+    }
+}
+
+.linkClass{
+    text-decoration: none;
+    color: white;
+}
+
+.linkActive {
+    color: salmon;    
+}
+
+.linkHomeClass{
+    text-decoration: none;
+    color: #D3F9EA;
+}

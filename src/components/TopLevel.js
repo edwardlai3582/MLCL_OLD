@@ -1,18 +1,37 @@
 import React from 'react'
 import { Link } from 'react-router'
+import '../styles/TopLevel.css'
 
-const App = ({children}) => (
-  <div>
+const TopLevel = ({children}) => (
     <div>
-        <h1>MLCL</h1>
-        <ul>
-          <li><Link to="/">list</Link></li>
-          <li><Link to="/checkList">CheckList</Link></li>
-          <li><Link to="/wantList">WantList</Link></li>
-        </ul>
-      </div>
-    {children}
-  </div>
+        <header>
+            <h1>
+                <Link className="linkHomeClass" to="/">
+                    <div className="headerAbbr">
+                        MLCL
+                    </div>
+                    <div className="headerNotAbbr">
+                        MARVEL LEGENDS CHECKLIST
+                    </div>
+                </Link>
+            </h1>
+            <nav>
+                <ul>
+                    <li>
+                        <Link activeClassName="linkActive" className="linkClass" to="/checkList">
+                            CHECKLIST
+                        </Link>
+                    </li>
+                    <li>
+                        <Link activeClassName="linkActive" className="linkClass" to="/wantList">
+                            WANTLIST
+                        </Link>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        {children}
+    </div>
 )
 
-export default App
+export default TopLevel
