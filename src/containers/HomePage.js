@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 
 import MLData from '../ML.json'
-import '../styles/HomePAge.css'
+import '../styles/HomePage.css'
 
 let HomePAge = ({ dispatch, owned}) => {
 

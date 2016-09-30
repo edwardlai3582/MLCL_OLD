@@ -19,11 +19,12 @@
     display: inline-block;
     position: relative;
     top: 7vw;
-    left: 20vw;
-    width: 44vw;
+    left: 15vw;
+    width: 47vw;
     height: 17.5vw;
     color: black;
     font-size: 5vw;
+    text-align: center;
 }
 
 .homeABout{

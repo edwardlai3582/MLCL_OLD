@@ -3,7 +3,7 @@
     width: 90%;
     margin: 0 5%;
     top: 10px;
-    background-color: #D6F2F6;
+    background-color: white;
     padding-bottom: 30px;
 }
 
@@ -37,7 +37,8 @@
     justify-content: space-between;
     align-items: baseline;
     padding: 10px;
-    border-bottom: thin solid grey; 
+    border: thin solid grey;
+    border-top: none;
 }
 
 .figureLi button {

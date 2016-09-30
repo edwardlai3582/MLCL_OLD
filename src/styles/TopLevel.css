@@ -9,7 +9,7 @@ html, body {
     width: 100%;
     height:100%;
     position: relative;
-    background-color: #D6F2F6;
+    background-color: white;/*#D6F2F6*/
 }
 
 button {

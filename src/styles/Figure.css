@@ -33,6 +33,7 @@
     background-color: white;
     border: none;
     border-radius: 10px;
+    max-width: 60px;
 }
 
 .figureButton.add {
