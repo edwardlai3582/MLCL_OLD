@@ -20,8 +20,7 @@ class Series extends React.Component {
     render(){
         let seriesData = this.props.seriesData;
         let owned = this.props.owned;
-        //let ulWrapperClass = this.state.show? "ulWrapper show" : "ulWrapper";
-        let ulWrapperClass = "ulWrapper show";
+        let ulWrapperClass = this.state.show? "ulWrapper show" : "ulWrapper";
         
         let buttonText =  this.state.show? "HIDE" : "SHOW";
 
