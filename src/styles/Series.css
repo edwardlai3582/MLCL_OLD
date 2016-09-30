@@ -3,8 +3,8 @@
 }
 
 .seriesTitleWrapper {
-    background-color: #035D82;
-    color: white;
+    background-color: #AFC23C;/*#035D82;*/
+    color: black;
     padding: 1vw;
     display: flex;
     justify-content:space-between;
@@ -53,7 +53,7 @@
 
 .firstLi {
     display: flex;
-    background-color: #1BBFCB;
+    background-color: #D2F27F;/*1BBFCB;*/
     font-size: 12px;
     border-bottom: thin solid black;
 }

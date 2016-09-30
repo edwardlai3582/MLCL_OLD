@@ -42,9 +42,9 @@
 }
 
 .homeFooter {
-    margin: 0 auto;
     text-align: center;
     font-weight: bold;
     font-size: 16px;
-    margin: 10px;
+    padding: 10px 0;
+    background-color: #AFC23C;
 }

@@ -18,7 +18,7 @@ button {
 
 header {
     background-color: black;
-    color: #D3F9EA;
+    color: white;
     padding: 1% 2%;
     
     display:flex;
@@ -72,7 +72,7 @@ nav li {
 
 .linkHomeClass {
     text-decoration: none;
-    color: #D3F9EA;
+    color: #AFC23C;/*#D3F9EA;*/
 }
 
 main {
