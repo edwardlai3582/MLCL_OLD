@@ -2,27 +2,49 @@
     padding: 5px;
     background-color: white;
     display: flex;
-    justify-content:space-between;
-    align-items:baseline;
-}
+    justify-content: space-between;
+    align-items: baseline;
 
-.figureCheck {
-    padding: 0;
-    margin: 0;
+    border-bottom: thin solid grey;
 }
 
 .figureName {
+    position: relative;
     padding: 0;
-    margin: 0;    
+    margin-left: 10px; 
+    align-items: center;
+    height: 100%;
+}
+
+.figureLeft {
+    position: relative;
+    display: flex; 
+    align-items: center;
+    width: 85%;
+    height: 100%;
 }
 
 .figureButton {
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
+    width: 15%;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.figureButton.add {
+    background-color: limegreen;
+}
+
+.figureButton.remove {
+    background-color: crimson;
 }
 
 .roundedOne {
-  width: 24px;
+  min-width: 24px;
   height: 24px;
   position: relative;
   margin: 0;
@@ -31,6 +53,7 @@
     border-width: 2px;
     border-style: solid;
     border-color: black;
+    
 }
 .roundedOne label {
   width: 20px;
@@ -55,9 +78,11 @@
   opacity: 0;
   border-radius: 50px;
 }
+/*
 .roundedOne label:hover::after {
   opacity: 0.3;
 }
+*/
 .roundedOne input[type=checkbox] {
   visibility: hidden;
 }

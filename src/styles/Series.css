@@ -50,3 +50,46 @@
     padding: 0;
     margin: 0;
 }
+
+.firstLi {
+    display: flex;
+    background-color: #E2A9F3;
+    font-size: 12px;
+    border-bottom: thin solid black;
+}
+
+@media only screen and (max-width: 500px) {
+    .firstLi {
+        font-size: 10px;    
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .firstLi {
+        font-size: 8px;    
+    }
+}
+
+.firstLeft {
+    display: flex; 
+    width: 85%;
+}
+
+.firstOwn {
+    padding: 5px;
+    min-width: 24px;
+}
+
+.firstName {
+    padding: 5px;
+    text-align: center;
+    border-left: thin solid black;
+    width: 100%;
+}
+
+.firstRight {
+    padding: 5px;
+    width: 15%;
+    text-align: center;
+    border-left: thin solid black;
+}

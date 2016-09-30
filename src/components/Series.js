@@ -47,6 +47,13 @@ class Series extends React.Component {
                 </section>
                 <section  className={ulWrapperClass} >    
                     <ul>
+                        <li className="firstLi">
+                            <div className="firstLeft">    
+                                <div className="firstOwn">OWN</div>
+                                <div className="firstName">NAME</div>
+                            </div>
+                            <div className="firstRight">WANTLIST</div>
+                        </li>
                         {seriesData.figures.map(figure =>
                           <li key={figure.id}>
                             <Figure figureData={figure} />    

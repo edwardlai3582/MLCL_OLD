@@ -9,24 +9,24 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
     return (
         <div className="figureWrapper">
         
-  <section title=".roundedOne">
-    <div className="roundedOne">
-      <input type="checkbox" id={figureData.id} value="None" checked={(figureData.id in owned)} onChange={() => {
-                if(figureData.id in owned){
-                    dispatch(removeOwned(figureData.id))
-                }
-                else{
-                    dispatch(addOwned(figureData))    
-                }
-            }} />
-      <label htmlFor={figureData.id}></label>
-    </div>
-  </section>        
+            <div className="figureLeft">
+            <div className="roundedOne">
+                <input type="checkbox" id={figureData.id} value="None" checked={(figureData.id in owned)} onChange={() => {
+                    if(figureData.id in owned){
+                        dispatch(removeOwned(figureData.id))
+                    }
+                    else{
+                        dispatch(addOwned(figureData))    
+                    }
+                }} />
+                <label htmlFor={figureData.id}></label>
+            </div>     
 
             <div className="figureName" >
                 {figureData.name}
             </div>
-            <button className="figureButton" onClick={() => {
+            </div>
+            <button className={(figureData.id in wanted)?'figureButton remove':'figureButton add'} onClick={() => {
                 if(figureData.id in wanted){
                     dispatch(removeWanted(figureData.id))
                 }
@@ -34,7 +34,7 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
                     dispatch(addWanted(figureData))    
                 }
             }} >
-                {(figureData.id in wanted)?'Remove from Want list':'Add to WANT list'}
+                {(figureData.id in wanted)?'-':'+'}
             </button>
         </div>
     )
