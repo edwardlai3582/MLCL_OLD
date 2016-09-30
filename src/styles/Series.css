@@ -44,3 +44,9 @@
     overflow: hidden;
     max-height: 800px;
 }
+
+.ulWrapper ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
