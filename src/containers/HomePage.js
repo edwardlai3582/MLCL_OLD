@@ -29,7 +29,7 @@ let HomePAge = ({ dispatch, owned}) => {
                 <h3>About</h3>
                 <p>{`This is a website helps you manage your Marvel Legends collection.`}</p>
                 <p>{`Your data is stored in browser's localstorage.`}</p>
-                <p>{`Go to checklist to start manage your collection.`}</p>
+                <p>{`Go to checklist to start managing your collection.`}</p>
                 <p>{`Go to wantlist to check your want list.`}</p>
             </section>                
             <footer className="homeFooter">
