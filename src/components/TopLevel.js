@@ -24,9 +24,9 @@ const TopLevel = ({children}) => (
             </nav>
         </header>
         <main>
-            <section className="topLevelChildrenWrapper">
-                {children}
-            </section>
+    
+        {children}
+    
         </main>
     </div>
 )

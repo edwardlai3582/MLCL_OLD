@@ -1,17 +1,15 @@
 import React from 'react'
 import { connect } from 'react-redux'
-
+import '../styles/CheckList.css'
 import MLData from '../ML.json'
 import Series from './Series'
 
 const CheckList = ({owned,wanted}) => (
-    <div>
-
-
+    <section className="topLevelChildrenWrapper">
         { MLData.Hasbro.series.map(series =>
             <Series key={series.seriesname} seriesData={series} />
         )}      
-    </div>
+    </section>
 )
 
 const mapStateToProps = (state) => ({

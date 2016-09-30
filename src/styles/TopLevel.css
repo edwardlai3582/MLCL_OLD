@@ -81,18 +81,3 @@ main {
     position: relative;
 }
 
-.topLevelChildrenWrapper {
-    position: relative;
-    width: 90%;
-    margin: 0 5%;
-    top: 10px;
-    background-color: #D6F2F6;
-    padding-bottom: 30px;
-}
-
-@media only screen and (max-width: 350px) {
-    .topLevelChildrenWrapper {
-        width: 98%;
-        margin: 0 1%;
-    }
-}

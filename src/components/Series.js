@@ -60,7 +60,7 @@ class Series extends React.Component {
                         )}       
                     </ul>
                 </section>
-            </div>        
+            </div>      
         );
     }
 }

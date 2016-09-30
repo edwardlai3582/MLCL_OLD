@@ -21,6 +21,7 @@ let WantList = ({ dispatch, wanted}) => {
     });
 
     return (
+        <section className="topLevelChildrenWrapper">
         <div className="wantlistWrapper">
             <h2>
                 WANTLIST
@@ -36,6 +37,7 @@ let WantList = ({ dispatch, wanted}) => {
                 )}       
             </ul>
         </div>
+        </section>    
     )
 }
 

@@ -1,0 +1,49 @@
+@import 'https://fonts.googleapis.com/css?family=Bangers';
+
+.homeWrapper {
+    position: relative;
+    width: 100%;
+}
+
+.homeHero {
+    position: relative;
+    background-image: url("Iron-Fist-Comics.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 62vw;
+}
+
+.homeMessage {
+    font-family: 'Bangers', cursive;
+    background-color: none;
+    display: inline-block;
+    position: relative;
+    top: 7vw;
+    left: 20vw;
+    width: 44vw;
+    height: 17.5vw;
+    color: black;
+    font-size: 5vw;
+}
+
+.homeABout{
+    background-color: white;
+    padding: 10px 5%;
+    font-weight: bold;
+}
+
+.homeABout h3 {
+    margin: 0;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Bangers', cursive;
+}
+
+.homeFooter {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px;
+}
