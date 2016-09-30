@@ -4,7 +4,7 @@ import '../styles/TopLevel.css'
 import NavLink from './NavLink'
 
 const TopLevel = ({children}) => (
-    <div>
+    <div className="topLevelWrapper" >
         <header>
             <h1>
                 <Link className="linkHomeClass" to="/">
@@ -23,7 +23,11 @@ const TopLevel = ({children}) => (
                 </ul>
             </nav>
         </header>
-        {children}
+        <main>
+            <section className="topLevelChildrenWrapper">
+                {children}
+            </section>
+        </main>
     </div>
 )
 

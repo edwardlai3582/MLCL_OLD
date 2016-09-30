@@ -8,7 +8,7 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
     
   return (
     <div>
-      <input type="checkbox" value="None" className="roundedTwo"  checked={(figureData.id in owned)} onClick={() => {
+      <input type="checkbox" value="None" className="roundedTwo"  checked={(figureData.id in owned)} onChange={() => {
         if(figureData.id in owned){
             dispatch(removeOwned(figureData.id))
         }

@@ -5,7 +5,9 @@ html, body {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
+    font-family: sans-serif;
     width: 100%;
+    height:100%;
     position: relative;
 }
 
@@ -22,6 +24,7 @@ header {
 header h1 {
     margin: 0;
     font-family: 'Catamaran', sans-serif;
+    font-size: 1.7em;
 }
 
 .headerAbbr {
@@ -32,7 +35,7 @@ header h1 {
     display: inline;
 }
 
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 700px) {
     .headerAbbr {
         display: inline;    
     }
@@ -53,6 +56,7 @@ nav li {
     margin-left: 10px;
     padding: 0;
     display: inline;
+    font-size: 16px;
 }
 
 @media only screen and (max-width: 350px) {
@@ -61,16 +65,22 @@ nav li {
     }
 }
 
-.linkClass{
-    text-decoration: none;
-    color: white;
-}
-
-.linkActive {
-    color: salmon;    
-}
-
-.linkHomeClass{
+.linkHomeClass {
     text-decoration: none;
     color: #D3F9EA;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    /*background-color: red;*/
+}
+
+.topLevelChildrenWrapper {
+    position: relative;
+    width: 90%;
+    margin: 0 5%;
+    top: 10px;
+    background-color: white;
 }

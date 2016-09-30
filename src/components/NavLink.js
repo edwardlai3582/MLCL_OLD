@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react'
 import { Link } from 'react-router'
-import '../styles/TopLevel.css'
+import '../styles/NavLink.css'
 
 const NavLink = ({to, displayName}) => (
   <Link to={to} activeClassName="linkActive" className="linkClass" >
@@ -9,8 +9,8 @@ const NavLink = ({to, displayName}) => (
 )
 
 NavLink.propTypes = {
-  to: PropTypes.String,
-  displayName: PropTypes.String   
+  to: PropTypes.string.isRequired,
+  displayName: PropTypes.string.isRequired   
 }
 
 export default NavLink    

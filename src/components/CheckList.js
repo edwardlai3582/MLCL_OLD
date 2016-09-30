@@ -6,8 +6,7 @@ import Series from './Series'
 
 const CheckList = ({owned,wanted}) => (
     <div>
-       {JSON.stringify(owned, null, 4)}
-       {JSON.stringify(wanted, null, 4)}
+
 
         { MLData.Hasbro.series.map(series =>
             <Series key={series.seriesname} seriesData={series} />
@@ -21,4 +20,9 @@ const mapStateToProps = (state) => ({
 })
 
 export default connect( mapStateToProps, null)(CheckList)
+
+/*
+       {JSON.stringify(owned, null, 4)}
+       {JSON.stringify(wanted, null, 4)}
+*/
 

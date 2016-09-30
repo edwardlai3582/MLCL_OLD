@@ -1,0 +1,46 @@
+.seriesWrapper {
+    margin-bottom: 10px;    
+}
+
+.seriesTitleWrapper {
+    background-color: purple;
+    color: white;
+    padding: 1vw;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.seriesName {
+    padding: 0;
+    margin: 0 5px;
+    font-size: 16px;
+}
+
+.seriesComplete {
+    
+}
+
+.showbutton {
+    width: 50px;
+    padding: 5px;
+    background-color: white;
+    border: none;
+    border-radius: 5%;
+    font-weight: bold;
+}
+
+.ulWrapper {
+    max-height: 0;
+    border: none;
+    overflow: hidden;
+    transition: all  350ms ease-in; 
+}
+
+
+.ulWrapper.show{
+    border-width: 1px;
+    border-style: solid;
+    overflow: hidden;
+    max-height: 800px;
+}

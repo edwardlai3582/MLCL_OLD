@@ -1,0 +1,8 @@
+.linkClass{
+    text-decoration: none;
+    color: white;
+}
+
+.linkActive {
+    color: salmon;    
+}
