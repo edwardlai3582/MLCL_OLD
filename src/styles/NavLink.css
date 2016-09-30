@@ -4,5 +4,6 @@
 }
 
 .linkActive {
-    color: turquoise;    
+    color: #02F5F1;
+    font-weight: bold;
 }

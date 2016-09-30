@@ -9,7 +9,11 @@ html, body {
     width: 100%;
     height:100%;
     position: relative;
-    background-color: darkgrey;
+    background-color: #D6F2F6;
+}
+
+button {
+    cursor: pointer;
 }
 
 header {
@@ -19,7 +23,7 @@ header {
     
     display:flex;
     justify-content:space-between;
-    align-items:baseline;
+    align-items: baseline;
 }
 
 header h1 {
@@ -75,7 +79,6 @@ main {
     width: 100%;
     height: 100%;
     position: relative;
-    /*background-color: red;*/
 }
 
 .topLevelChildrenWrapper {
@@ -83,5 +86,13 @@ main {
     width: 90%;
     margin: 0 5%;
     top: 10px;
-    background-color: darkgrey;
+    background-color: #D6F2F6;
+    padding-bottom: 30px;
+}
+
+@media only screen and (max-width: 350px) {
+    .topLevelChildrenWrapper {
+        width: 98%;
+        margin: 0 1%;
+    }
 }

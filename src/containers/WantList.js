@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 import { removeWanted } from '../actions'
 
-//import '../styles/Figure.css'
+import '../styles/WantList.css'
 
 let WantList = ({ dispatch, wanted}) => {
     let wantArray=[];
@@ -21,12 +21,13 @@ let WantList = ({ dispatch, wanted}) => {
     });
 
     return (
-        <div>
-            WANTLIST
-
+        <div className="wantlistWrapper">
+            <h2>
+                WANTLIST
+            </h2>
             <ul>
                 {wantArray.map(figure =>
-                    <li key={figure.id}>
+                    <li key={figure.id} className="figureLi">
                         {figure.name}
                         <button onClick={() => {dispatch(removeWanted(figure.id))}} >
                             {'Remove'}
