@@ -29,7 +29,7 @@ let WantList = ({ dispatch, wanted}) => {
             <ul>
                 {wantArray.map(figure =>
                     <li key={figure.id} className="figureLi">
-                        {figure.name}
+                        {figure.series}: {figure.name}
                         <button onClick={() => {dispatch(removeWanted(figure.id))}} >
                             {'Remove'}
                         </button>
