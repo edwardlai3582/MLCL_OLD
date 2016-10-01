@@ -40,7 +40,7 @@ class CheckList extends React.Component {
                     </button>
                 </div>
                 <section className="topLevelChildrenWrapper">
-                    { whichSeries}      
+                    { whichSeries }      
                 </section>
             </div>
         );
