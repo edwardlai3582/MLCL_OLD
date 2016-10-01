@@ -31,6 +31,7 @@
     background-color: white;
     padding: 10px 5%;
     font-weight: bold;
+    text-align: center;
 }
 
 .homeABout h3 {
@@ -41,10 +42,19 @@
     font-family: 'Bangers', cursive;
 }
 
+.homeABout article {
+    text-align: left;
+    display: inline-block;
+}
+
 .homeFooter {
     text-align: center;
     font-weight: bold;
     font-size: 16px;
     padding: 10px 0;
     background-color: #AFC23C;
+}
+
+.homeFooter article {
+    display: inline-block;
 }

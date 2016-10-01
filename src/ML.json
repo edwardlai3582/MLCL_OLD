@@ -173,7 +173,944 @@
                         "img": ""
                     }
                 ]
-            }            
+            },
+            {
+                "seriesname": "Epic Heroes",
+                "date": "201301",
+                "figures": [
+                    {
+                        "id": "EpicHeroesDeadpool",
+                        "name": "Deadpool",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesDrDoom",
+                        "name": "DrDoom",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesDrDoom-FutureFoundationVariant",
+                        "name": "Dr Doom - Future Foundation Variant",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesIronMan",
+                        "name": "Iron Man",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesMystique",
+                        "name": "Mystique",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesPunisher",
+                        "name": "Punisher",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesThunderboltsPunisherVariant",
+                        "name": "Thunderbolts Punisher Variant",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesUSAgent",
+                        "name": "US Agent",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Iron Monger Series",
+                "date": "201302",
+                "figures": [
+                    {
+                        "id": "IronMongerSeriesIronPatriot",
+                        "name": "Iron Patriot",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesClassicIronMan",
+                        "name": "Classic Iron Man",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesHeroicAgeIronMan",
+                        "name": "Heroic Age Iron Man",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesIronManMark42",
+                        "name": "Iron Man Mark42",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesIronMongerBAF",
+                        "name": "Iron Monger BAF",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesUltron",
+                        "name": "Ultron",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "IronMongerSeriesLieutenant Colonel James Rhodes",
+                        "name": "Lieutenant Colonel James Rhodes",
+                        "series": "Iron Monger Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Hit-Monkey Series",
+                "date": "201303",
+                "figures": [
+                    {
+                        "id": "Hit-MonkeySeriesArchangel",
+                        "name": "Archangel",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesHit-Monkey BAF",
+                        "name": "Hit-Monkey BAF",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesHyperion",
+                        "name": "Hyperion",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesProtector",
+                        "name": "Protector",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesRedShe-Hulk",
+                        "name": "Red She-Hulk",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesUltimateCaptainAmerica",
+                        "name": "Ultimate Captain America",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Hit-MonkeySeriesX-ForceWolverine",
+                        "name": "X-Force Wolverine",
+                        "series": "Hit-Monkey Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Rocket Raccoon Series",
+                "date": "201308",
+                "figures": [
+                    {
+                        "id": "RocketRaccoonSeriesBlackPanther",
+                        "name": "Black Panther",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RocketRaccoonSeriesJimLeeJeanGrey",
+                        "name": "Jim Lee Jean Grey",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RocketRaccoonSeriesModernHawkeye",
+                        "name": "Modern Hawkeye",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RocketRaccoonSeriesRocketRaccoonBAF",
+                        "name": "Rocket Raccoon BAF",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RocketRaccoonSeriesScarletSpider",
+                        "name": "Scarlet Spider",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RocketRaccoonSeriesWrecker",
+                        "name": "Wrecker",
+                        "series": "Rocket Raccoon Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Puck Series",
+                "date": "201310",
+                "figures": [
+                    {
+                        "id": "PuckSeriesAstonishingX-MenCyclops",
+                        "name": "Astonishing X-Men Cyclops",
+                        "series": "Puck Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "PuckSeriesEmmaFrost",
+                        "name": "Emma Frost",
+                        "series": "Puck Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "PuckSeriesPuckBAF",
+                        "name": "Puck BAF",
+                        "series": "Puck Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "PuckSeriesSabertooth",
+                        "name": "Sabertooth",
+                        "series": "Puck Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "PuckSeriesWolverine",
+                        "name": "Wolverine",
+                        "series": "Puck Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Mandroid Series",
+                "date": "201401",
+                "figures": [
+                    {
+                        "id": "MandroidSeriesAgentsofHydra",
+                        "name": "Agents of Hydra",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesBaronZemo",
+                        "name": "Baron Zemo",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesCaptainAmericaNOW",
+                        "name": "Captain America NOW",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesMandroidBAF",
+                        "name": "Mandroid BAF",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesMovieBlackWidow",
+                        "name": "Movie Black Widow",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesMovieCaptainAmerica",
+                        "name": "Movie Captain America",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesMovieWinterSoldier",
+                        "name": "Movie Winter Soldier",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesRedSkull",
+                        "name": "Red Skull",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesSoldiersOfA.I.M.",
+                        "name": "Soldiers Of A.I.M.",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MandroidSeriesWW2CaptainAmerica",
+                        "name": "WW2 Captain America",
+                        "series": "Mandroid Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Ultimate Green Goblin Series",
+                "date": "201402",
+                "figures": [
+                    {
+                        "id": "UltimateGreenGoblinSeriesBlackCat",
+                        "name": "Black Cat",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesBoomerang",
+                        "name": "Boomerang",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesCarnage",
+                        "name": "Carnage",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesMovieElectro",
+                        "name": "Movie Electro",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesMovieTheAmazingSpider-Man",
+                        "name": "Movie The Amazing Spider-Man",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesSpider-Girl",
+                        "name": "Spider-Girl",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesSuperiorSpider-Man",
+                        "name": "Superior Spider-Man",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesToxin",
+                        "name": "Toxin",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesUltimateBeetle",
+                        "name": "Ultimate Beetle",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltimateGreenGoblinSeriesUltimateGreenGoblinBAF",
+                        "name": "Ultimate Green Goblin BAF",
+                        "series": "Ultimate Green Goblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    }                    
+                ]                   
+            },
+            {
+                "seriesname": "Groot Series",
+                "date": "201407",
+                "figures": [
+                    {
+                        "id": "GrootSeriesCosmicIronMan",
+                        "name": "Cosmic Iron Man",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesMovieDraxTheDestroyer",
+                        "name": "Movie Drax The Destroyer",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesMovieGamora",
+                        "name": "Movie Gamora",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesMovieGrootBAF",
+                        "name": "Movie Groot BAF",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesMovieRocketRaccoon",
+                        "name": "Movie Rocket Raccoon",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesMovieStar-Lord",
+                        "name": "Movie Star-Lord",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GrootSeriesNova",
+                        "name": "Nova",
+                        "series": "Groot Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Jubilee Series",
+                "date": "201408",
+                "figures": [
+                    {
+                        "id": "JubileeSeriesCyclops",
+                        "name": "Cyclops",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeriesJubileeBAF",
+                        "name": "Jubilee BAF",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeriesMagneto",
+                        "name": "Magneto",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeriesStorm",
+                        "name": "Storm",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeriesStryfe",
+                        "name": "Stryfe",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeriesWolverine",
+                        "name": "Wolverine",
+                        "series": "Jubilee Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Allfather Series",
+                "date": "201501",
+                "figures": [
+                    {
+                        "id": "AllfatherSeriesCaptainMarvel",
+                        "name": "Captain Marvel",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesHawkeye",
+                        "name": "Hawkeye",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesIronFist",
+                        "name": "Iron Fist",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesKingThorBAF",
+                        "name": "King Thor BAF",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesMachineMan",
+                        "name": "Machine Man",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesOdinBAF",
+                        "name": "Odin BAF",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesScarletWitch",
+                        "name": "Scarlet Witch",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesSentry",
+                        "name": "Sentry",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllfatherSeriesThor",
+                        "name": "Thor",
+                        "series": "Allfather Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Hobgoblin Series",
+                "date": "201502",
+                "figures": [
+                    {
+                        "id": "HobgoblinSeriesAnti-Venom",
+                        "name": "Anti-Venom",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesDaredevil",
+                        "name": "Daredevil",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesHobgoblinBAF",
+                        "name": "Hobgoblin BAF",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesSpider-Girl",
+                        "name": "Spider-Girl",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesSpider-Man",
+                        "name": "Spider-Man",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesSpider-Man2099",
+                        "name": "Spider-Man 2099",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HobgoblinSeriesUltimateSpider-Woman",
+                        "name": "Ultimate Spider-Woman",
+                        "series": "Hobgoblin Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Thanos Series",
+                "date": "201503",
+                "figures": [
+                    {
+                        "id": "ThanosSeriesBatroc",
+                        "name": "Batroc",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesHellcat",
+                        "name": "Hellcat",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesMovieCaptainAmerica",
+                        "name": "Movie Captain America",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesMovieHulk",
+                        "name": "Movie Hulk",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesMovieIronManMark43",
+                        "name": "Movie Iron Man Mark 43",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesSpider-Woman",
+                        "name": "Spider-Woman",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThanosSeriesThanosBAF",
+                        "name": "Thanos BAF",
+                        "series": "Thanos Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Hulkbuster Series",
+                "date": "201504",
+                "figures": [
+                    {
+                        "id": "HulkbusterSeriesBlizzard",
+                        "name": "Blizzard",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesDrStrange",
+                        "name": "Dr Strange",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesHulkbusterIronManBAF",
+                        "name": "Hulkbuster Iron Man BAF",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesMarvelNowIronMan",
+                        "name": "Marvel Now Iron Man",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesMovieWarMachine",
+                        "name": "Movie War Machine",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesThundra",
+                        "name": "Thundra",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesValkyrie",
+                        "name": "Valkyrie",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkbusterSeriesVision",
+                        "name": "Vision",
+                        "series": "Hulkbuster Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Ultron Prime Series",
+                "date": "201505",
+                "figures": [
+                    {
+                        "id": "UltronPrimeSeriesBulldozer",
+                        "name": "Bulldozer",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesGiantMan",
+                        "name": "Giant Man",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesGrimReaper",
+                        "name": "Grim Reaper",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesMovieAnt-Man",
+                        "name": "Movie Ant-Man",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesMovieUltronPrimeBAF",
+                        "name": "Movie Ultron Prime BAF",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesTigershark",
+                        "name": "Tigershark",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UltronPrimeSeriesWasp",
+                        "name": "Wasp",
+                        "series": "Ultron Prime Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Rhino Series",
+                "date": "201506",
+                "figures": [
+                    {
+                        "id": "RhinoSeriesChameleon",
+                        "name": "Chameleon",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesGhostRider",
+                        "name": "Ghost Rider",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesKraventheHunter",
+                        "name": "Kraven the Hunter",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesMistyKnight",
+                        "name": "Misty Knight",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesRhinoBAF",
+                        "name": "Rhino BAF",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesScarletSpider",
+                        "name": "Scarlet Spider",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesSuperiorVenom",
+                        "name": "Superior Venom",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RhinoSeriesWhiteTiger",
+                        "name": "White Tiger",
+                        "series": "Rhino Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "Absorbing Man Series",
+                "date": "201601",
+                "figures": [
+                    {
+                        "id": "AbsorbingManSeriesAbsorbingManBAF",
+                        "name": "Absorbing Man BAF",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesBeetle",
+                        "name": "Beetle",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesJackO'Lantern",
+                        "name": "Jack O'Lantern",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesMorbius",
+                        "name": "Morbius",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesSensationalSpider-Man",
+                        "name": "Sensational Spider-Man",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesSpeedDemon",
+                        "name": "Speed Demon",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesSpider-Gwen",
+                        "name": "Spider-Gwen",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbsorbingManSeriesVenom",
+                        "name": "Venom",
+                        "series": "Absorbing Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
         ]
     }
 }
+

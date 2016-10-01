@@ -21,22 +21,26 @@ let HomePAge = ({ dispatch, owned}) => {
                         }, 0)}
                     </div>
                     <div>
-                        OF YOUR JOURNEY!!
+                        OF THE JOURNEY!!
                     </div>    
                 </div>
             </section>
             <section className="homeABout">
                 <h3>About</h3>
-                <p>{`This is a website helps you manage your Marvel Legends collection.`}</p>
-                <p>{`Your data is stored in browser's localstorage.`}</p>
-                <p>{`Go to checklist to start managing your collection.`}</p>
-                <p>{`Go to wantlist to check your want list.`}</p>
+                <article>
+                    <p>{`This is a website helps you manage your Marvel Legends collection.`}</p>
+                    <p>{`Your data is stored in browser's localstorage.`}</p>
+                    <p>{`Go to checklist to start managing your collection.`}</p>
+                    <p>{`Go to wantlist to check your want list.`}</p>
+                </article>
             </section>                
             <footer className="homeFooter">
-                <p>{`So I build this site just for practice (also a Marvel Legends collector).`}</p>
-                <p>{`I don't own any content, logos, pictures showed on this site.`}</p>
-                <p>{`If you have any questions, this is my email: edwardlai3582@gmail.com`}</p>
-                <p>{`Peace!`}</p>
+                <article>
+                    <p>{`So I build this site just for practice (also a Marvel Legends collector).`}</p>
+                    <p>{`I don't own any content, logos, pictures showed on this site.`}</p>
+                    <p>{`If you have any questions, this is my email: edwardlai3582@gmail.com`}</p>
+                    <p>{`Peace!`}</p>
+                </article>
             </footer>            
         </section>
     )
