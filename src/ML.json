@@ -1,4 +1,63 @@
-{
+{   
+    "Toybiz": {
+        "series": [
+            {
+                "seriesname": "Series 1",
+                "date": "200205",
+                "figures": [
+                    {
+                        "id": "Series1CaptainAmerica",
+                        "name": "Captain America",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1Hulk",
+                        "name": "Hulk",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1HulkVariant",
+                        "name": "Hulk Variant",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1IronMan",
+                        "name": "Iron Man",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1GoldIronManVariant",
+                        "name": "Gold Iron Man Variant",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1StealthIronManVariant",
+                        "name": "Stealth Iron Man Variant",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series1Toad",
+                        "name": "Toad",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ]    
+    },
     "Hasbro": {
         "series": [
             {

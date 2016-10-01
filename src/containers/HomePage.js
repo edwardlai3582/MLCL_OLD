@@ -16,9 +16,15 @@ let HomePAge = ({ dispatch, owned}) => {
                     <div>
                         {Object.getOwnPropertyNames(owned).length}
                         /
-                        {MLData.Hasbro.series.reduce( (previousValue, currentValue, currentIndex, array) => {
-                        return currentValue.figures.length + previousValue;
-                        }, 0)}
+                        {
+                            MLData.Hasbro.series.reduce( (previousValue, currentValue, currentIndex, array) => {
+                                return currentValue.figures.length + previousValue;
+                            }, 0)
+                            +
+                            MLData.Toybiz.series.reduce( (previousValue, currentValue, currentIndex, array) => {
+                                return currentValue.figures.length + previousValue;
+                            }, 0)
+                        }
                     </div>
                     <div>
                         OF THE JOURNEY!!

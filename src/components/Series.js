@@ -3,7 +3,6 @@ import { connect } from 'react-redux'
 import '../styles/Series.css'
 import Figure from '../containers/Figure'
 
-//const Series = ({seriesData, owned}) => (
 class Series extends React.Component {
     constructor() {
         super();
