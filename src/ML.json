@@ -1109,6 +1109,371 @@
                         "img": ""
                     }
                 ]
+            },
+            {
+                "seriesname": "Red Onslaught Series",
+                "date": "201602",
+                "figures": [
+                    {
+                        "id": "RedOnslaughtSeriesAgent13",
+                        "name": "Agent 13",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesCaptainAmerica",
+                        "name": "Captain America",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesCottonmouth",
+                        "name": "Cottonmouth",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesMockingbird",
+                        "name": "Mockingbird",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesRedOnslaughtBAF",
+                        "name": "Red Onslaught BAF",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesScourge",
+                        "name": "Scourge",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesTaskmaster",
+                        "name": "Taskmaster",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedOnslaughtSeriesWhirlwind",
+                        "name": "Whirlwind",
+                        "series": "Red Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Giant Man Series",
+                "date": "201603",
+                "figures": [
+                    {
+                        "id": "GiantManSeriesMovieBlackPanther",
+                        "name": "Movie Black Panther",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesMovieCaptainAmerica",
+                        "name": "Movie Captain America",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesMovieGiantManBAF",
+                        "name": "Movie Giant Man BAF",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesMovieIronManMark46",
+                        "name": "Movie Iron Man Mark 46",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesNickFury",
+                        "name": "Nick Fury",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesNuke",
+                        "name": "Nuke",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeriesRedGuardian",
+                        "name": "Red Guardian",
+                        "series": "Giant Man Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Space Venom Series",
+                "date": "201606",
+                "figures": [
+                    {
+                        "id": "SpaceVenomSeriesElectro",
+                        "name": "Electro",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesHobgoblin",
+                        "name": "Hobgoblin",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesSilk",
+                        "name": "Silk",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesSpaceVenomBAF",
+                        "name": "Space VenomBAF",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesSpider-Girl(AshleyBarton)",
+                        "name": "Spider-Girl (Ashley Barton)",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesUltimateSpider-Man(MilesMorales)",
+                        "name": "Ultimate Spider-Man (Miles Morales)",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SpaceVenomSeriesUltimateSpider-Man(PeterParker)",
+                        "name": "Ultimate Spider-Man (Peter Parker)",
+                        "series": "Space Venom Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Abomination Series",
+                "date": "201607",
+                "figures": [
+                    {
+                        "id": "AbominationSeriesAbominationBAF",
+                        "name": "Abomination BAF",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesCaptainBritain",
+                        "name": "Captain Britain",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesEel",
+                        "name": "Eel",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesIronSkull",
+                        "name": "Iron Skull",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesMovieScarletWitch",
+                        "name": "Movie Scarlet Witch",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesSecretWarCaptainAmerica",
+                        "name": "Secret War Captain America",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AbominationSeriesWonderMan",
+                        "name": "Wonder Man",
+                        "series": "Abomination Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Juggernaut Series",
+                "date": "201608",
+                "figures": [
+                    {
+                        "id": "JuggernautSeriesCable",
+                        "name": "Cable",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesDeadpool",
+                        "name": "Deadpool",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesHavok",
+                        "name": "Havok",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesIceman",
+                        "name": "Iceman",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesJuggernautBAF",
+                        "name": "Juggernaut BAF",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesKittyPryde",
+                        "name": "Kitty Pryde",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesPhoenix",
+                        "name": "Phoenix",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesRogue",
+                        "name": "Rogue",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JuggernautSeriesWolverine",
+                        "name": "Wolverine",
+                        "series": "Juggernaut Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Dormammu Series",
+                "date": "201610",
+                "figures": [
+                    {
+                        "id": "DormammuSeriesBrotherVoodoo",
+                        "name": "Brother Voodoo",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesDormammuBAF",
+                        "name": "Dormammu BAF",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesDr.Strange",
+                        "name": "Dr. Strange",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesEnchantress",
+                        "name": "Enchantress",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesIronFist",
+                        "name": "Iron Fist",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesMovieAstralDr.Strange",
+                        "name": "Movie Astral Dr. Strange",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesMovieBaronMordo",
+                        "name": "Movie Baron Mordo",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesMovieDr.Strange",
+                        "name": "Movie Dr. Strange",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "DormammuSeriesNicoMinoru",
+                        "name": "Nico Minoru",
+                        "series": "Dormammu Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
             }
         ]
     }
