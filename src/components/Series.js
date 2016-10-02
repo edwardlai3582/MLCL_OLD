@@ -20,12 +20,21 @@ class Series extends React.Component {
         let seriesData = this.props.seriesData;
         let owned = this.props.owned;
         let ulWrapperClass = this.state.show? "ulWrapper show" : "ulWrapper";
-        
         let buttonText =  this.state.show? "HIDE" : "SHOW";
-
+        let ownNumber = seriesData.figures.reduce( (previousValue, currentValue, currentIndex, array) => {
+                            if(currentValue.id in owned){
+                                return previousValue + 1;    
+                            }
+                            return previousValue;
+                        }, 0);
+        let completion = Math.floor(ownNumber/seriesData.figures.length*100);
+        let seriesTitleStyle = {
+            background: "linear-gradient(to right,#AFC23C "+completion+"%, #D0FA58 "+completion+"%)"
+        };
+        
         return(
             <div className="seriesWrapper">
-                <section className="seriesTitleWrapper">
+                <section className="seriesTitleWrapper" style={seriesTitleStyle}>
                     <button onClick={this.handleClick} className="showbutton">
                         {buttonText}
                     </button>
@@ -33,12 +42,7 @@ class Series extends React.Component {
                         {seriesData.seriesname}
                     </h6>
                     <div className="seriesComplete">
-                        {seriesData.figures.reduce( (previousValue, currentValue, currentIndex, array) => {
-                            if(currentValue.id in owned){
-                                return previousValue + 1;    
-                            }
-                            return previousValue;
-                        }, 0)}
+                        {ownNumber}
                         /
                         {seriesData.figures.length}
                     </div>
