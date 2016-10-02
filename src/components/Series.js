@@ -18,6 +18,7 @@ class Series extends React.Component {
     
     render(){
         let seriesData = this.props.seriesData;
+        let seriesBrand = this.props.seriesBrand;
         let owned = this.props.owned;
         let ulWrapperClass = this.state.show? "ulWrapper show" : "ulWrapper";
         let buttonText =  this.state.show? "HIDE" : "SHOW";
@@ -58,7 +59,7 @@ class Series extends React.Component {
                         </li>
                         {seriesData.figures.map(figure =>
                           <li key={figure.id}>
-                            <Figure figureData={figure} />    
+                            <Figure figureData={figure} figureBrand={seriesBrand} />    
                           </li>
                         )}       
                     </ul>
@@ -70,6 +71,7 @@ class Series extends React.Component {
 
 Series.propTypes = {
   seriesData: PropTypes.object,
+  seriesBrand: PropTypes.string    
 }
 
 const mapStateToProps = (state) => ({

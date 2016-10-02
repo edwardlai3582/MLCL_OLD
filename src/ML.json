@@ -1570,7 +1570,7 @@
                 ]
             }
         ],
-        "STORE EXCLUSIVES": [
+        "Wal-Mart EXCLUSIVES": [
             {
                 "seriesname": "Giant Man Series (Wal-Mart exclusive)",
                 "date": "200601",
@@ -2811,54 +2811,6 @@
                 ]                   
             },
             {
-                "seriesname": "Jubilee Series",
-                "date": "201408",
-                "figures": [
-                    {
-                        "id": "JubileeSeriesCyclops",
-                        "name": "Cyclops",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "JubileeSeriesJubileeBAF",
-                        "name": "Jubilee BAF",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "JubileeSeriesMagneto",
-                        "name": "Magneto",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "JubileeSeriesStorm",
-                        "name": "Storm",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "JubileeSeriesStryfe",
-                        "name": "Stryfe",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "JubileeSeriesWolverine",
-                        "name": "Wolverine",
-                        "series": "Jubilee Series",
-                        "quantity": "0",
-                        "img": ""
-                    }
-                ]                   
-            },
-            {
                 "seriesname": "Allfather Series",
                 "date": "201501",
                 "figures": [
@@ -3396,6 +3348,33 @@
                 ]
             },
             {
+                "seriesname": "Captain America: Civil War 3-Pack",
+                "date": "201605",
+                "figures": [
+                    {
+                        "id": "CaptainAmerica:CivilWar3-PackCaptainAmerica",
+                        "name": "Captain America",
+                        "series": "Captain America: Civil War 3-Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "CaptainAmerica:CivilWar3-PackIronMan",
+                        "name": "Iron Man",
+                        "series": "Captain America: Civil War 3-Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "CaptainAmerica:CivilWar3-PackSpider-Man",
+                        "name": "Spider-Man",
+                        "series": "Captain America: Civil War 3-Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
                 "seriesname": "Space Venom Series",
                 "date": "201606",
                 "figures": [
@@ -3644,9 +3623,1314 @@
                 ]
             }
         ],
-        "TWO-PACKS": [],
-        "STORE EXCLUSIVES": [],
-        "SDCC EXCLUSIVES": []
+        "TWO-PACKS": [
+            {
+                "seriesname": "Two Packs Series 1",
+                "date": "200801",
+                "figures": [
+                    {
+                        "id": "TwoPacksSeries1Elektra",
+                        "name": "Elektra",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1ElektraSkrullVariant",
+                        "name": "Elektra Skrull Variant",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1Forge",
+                        "name": "Forge",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1Mr.Fantastic",
+                        "name": "Mr. Fantastic",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1Ronin",
+                        "name": "Ronin",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1RoninVariant",
+                        "name": "Ronin Variant",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1TheThing",
+                        "name": "The Thing",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1UltimateCaptainAmerica",
+                        "name": "Ultimate Captain America",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1UltimateNickFury",
+                        "name": "Ultimate Nick Fury",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries1Wolverine",
+                        "name": "Wolverine",
+                        "series": "Two Packs Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Two Packs Series 2",
+                "date": "200905",
+                "figures": [
+                    {
+                        "id": "TwoPacksSeries2DumDumDugan",
+                        "name": "Dum Dum Dugan",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2Hand Ninja",
+                        "name": "Hand Ninja",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2HandNinjaWhiteVariant",
+                        "name": "Hand Ninja White Variant",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2InvisibleWoman",
+                        "name": "Invisible Woman",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2IronMan",
+                        "name": "Iron Man",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2KreeSoldier",
+                        "name": "Kree Soldier",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2MariaHill",
+                        "name": "Maria Hill",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2NickFury",
+                        "name": "Nick Fury",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2SharonCarter",
+                        "name": "Sharon Carter",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2SkrullSoldier",
+                        "name": "Skrull Soldier",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries2StealthArmorIronMan",
+                        "name": "Stealth Armor Iron Man",
+                        "series": "Two Packs Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "AMAZON EXCLUSIVES": [
+            {
+                "seriesname": "Avengers: Age of Ultron Box Set (Amazon Exclusive)",
+                "date": "201506",
+                "figures": [
+                    {
+                        "id": "Avengers:AgeofUltronBoxSet(AmazonExclusive)BlackWidow",
+                        "name": "Black Widow",
+                        "series": "Avengers: Age of Ultron Box Set (Amazon Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Avengers:AgeofUltronBoxSet(AmazonExclusive)BruceBanner",
+                        "name": "Bruce Banner",
+                        "series": "Avengers: Age of Ultron Box Set (Amazon Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Avengers:AgeofUltronBoxSet(AmazonExclusive)Hawkeye",
+                        "name": "Hawkeye",
+                        "series": "Avengers: Age of Ultron Box Set (Amazon Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Avengers:AgeofUltronBoxSet(AmazonExclusive)Thor",
+                        "name": "Thor",
+                        "series": "Avengers: Age of Ultron Box Set (Amazon Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "DIAMOND PREVIEWS EXCLUSIVES": [
+            {
+                "seriesname": "Ultimate Wolverine (Diamond Previews Exclusive)",
+                "date": "200801",
+                "figures": [
+                    {
+                        "id": "UltimateWolverine(DiamondPreviewsExclusive)UltimateWolverine",
+                        "name": "Ultimate Wolverine",
+                        "series": "Ultimate Wolverine (Diamond Previews Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }            
+        ],
+        "ENTERTAINMENT EARTH EXCLUSIVES": [
+            {
+                "seriesname": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                "date": "201509",
+                "figures": [
+                    {
+                        "id": "GuardiansoftheGalaxy(EntertainmentEarthExclusive)DraxTheDestroyer",
+                        "name": "Drax The Destroyer",
+                        "series": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GuardiansoftheGalaxy(EntertainmentEarthExclusive)Gamora",
+                        "name": "Gamora",
+                        "series": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GuardiansoftheGalaxy(EntertainmentEarthExclusive)Groot",
+                        "name": "Groot",
+                        "series": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GuardiansoftheGalaxy(EntertainmentEarthExclusive)RocketRaccoon",
+                        "name": "Rocket Raccoon",
+                        "series": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GuardiansoftheGalaxy(EntertainmentEarthExclusive)Star-Lord",
+                        "name": "Star-Lord",
+                        "series": "Guardians of the Galaxy (Entertainment Earth Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }   
+        ],
+        "HASBRO TOY STORE EXCLUSIVES": [
+            {
+                "seriesname": "A.O.A. Sunfire (Hasbro Toy Store Exclusive)",
+                "date": "200810",
+                "figures": [
+                    {
+                        "id": "A.O.A.Sunfire(HasbroToyStoreExclusive)A.O.A.Sunfire",
+                        "name": "A.O.A. Sunfire",
+                        "series": "A.O.A. Sunfire (Hasbro Toy Store Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }    
+        ],
+        "MARVEL UNLIMITED PLUS MEMBERSHIP EXCLUSIVES": [
+            {
+                "seriesname": "Age of Ultron (2014 Marvel Unlimited Plus Membership Exclusive)",
+                "date": "201401",
+                "figures": [
+                    {
+                        "id": "AgeofUltron(2014MarvelUnlimitedPlusMembershipExclusive)AgeofUltron",
+                        "name": "Age of Ultron",
+                        "series": "Age of Ultron (2014 Marvel Unlimited Plus Membership Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Rocket Raccoon (2015 Marvel Unlimited Plus Membership Exclusive)",
+                "date": "201501",
+                "figures": [
+                    {
+                        "id": "RocketRaccoon(2015MarvelUnlimitedPlusMembershipExclusive)RocketRaccoon",
+                        "name": "Rocket Raccoon",
+                        "series": "Rocket Raccoon (2015 Marvel Unlimited Plus Membership Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Rescue Pepper (2016 Marvel Unlimited Plus Membership Exclusive)",
+                "date": "201601",
+                "figures": [
+                    {
+                        "id": "RescuePepper(2016MarvelUnlimitedPlusMembershipExclusive)RescuePepper",
+                        "name": "Rescue Pepper",
+                        "series": "Rescue Pepper (2016 Marvel Unlimited Plus Membership Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Captain Marvel (2017 Marvel Unlimited Plus Membership Exclusive)",
+                "date": "201701",
+                "figures": [
+                    {
+                        "id": "CaptainMarvel(2017MarvelUnlimitedPlusMembershipExclusive)CaptainMarvel",
+                        "name": "Captain Marvel",
+                        "series": "Captain Marvel (2017 Marvel Unlimited Plus Membership Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "TARGET EXCLUSIVES": [
+            {
+                "seriesname": "Limited Edition Hulk (Target Exclusive)",
+                "date": "200801",
+                "figures": [
+                    {
+                        "id": "LimitedEditionHulk(TargetExclusive)MovieHulk",
+                        "name": "Movie Hulk",
+                        "series": "Limited Edition Hulk (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Red Hulk Series (Target exclusive)",
+                "date": "200809",
+                "figures": [
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)AdamWarlock",
+                        "name": "Adam Warlock",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)BlackCostumeSpider-Man",
+                        "name": "Black Costume Spider-Man",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)RedHullkBAF",
+                        "name": "Red Hullk BAF",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)SilverSavage",
+                        "name": "Silver Savage",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)Spiral",
+                        "name": "Spiral",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)SpiralVariant",
+                        "name": "Spiral Variant",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)UnionJack",
+                        "name": "Union Jack",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)Wolverine",
+                        "name": "Wolverine",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "RedHulkSeries(Targetexclusive)WolverineBlackVariant",
+                        "name": "Wolverine Black Variant",
+                        "series": "Red Hulk Series (Target exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "2014 Collectors Edition Box Set (Target Exclusive)",
+                "date": "201406",
+                "figures": [
+                    {
+                        "id": "2014CollectorsEditionBoxSet(TargetExclusive)Ms.Marvel",
+                        "name": "Ms. Marvel",
+                        "series": "2014 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2014CollectorsEditionBoxSet(TargetExclusive)RadioactiveMan",
+                        "name": "Radioactive Man",
+                        "series": "2014 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2014CollectorsEditionBoxSet(TargetExclusive)CaptainAmerica",
+                        "name": "Captain America",
+                        "series": "2014 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "2015 Collectors Edition Box Set (Target Exclusive)",
+                "date": "201506",
+                "figures": [
+                    {
+                        "id": "2015CollectorsEditionBoxSet(TargetExclusive)Hulk",
+                        "name": "Hulk",
+                        "series": "2015 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2015CollectorsEditionBoxSet(TargetExclusive)Ultron",
+                        "name": "Ultron",
+                        "series": "2015 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2015CollectorsEditionBoxSet(TargetExclusive)Vision",
+                        "name": "Vision",
+                        "series": "2015 Collectors Edition Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Captain America: Civil War War Machine & Disco Iron Man (Target Exclusive)",
+                "date": "201603",
+                "figures": [
+                    {
+                        "id": "CaptainAmerica:CivilWarWarMachine&DiscoIronMan(TargetExclusive)DiscoIronMan",
+                        "name": "Disco Iron Man",
+                        "series": "Captain America: Civil War War Machine & Disco Iron Man (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "CaptainAmerica:CivilWarWarMachine&DiscoIronMan(TargetExclusive)WarMachine",
+                        "name": "War Machine",
+                        "series": "Captain America: Civil War War Machine & Disco Iron Man (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "2016 Avengers Box Set (Target Exclusive)",
+                "date": "201608",
+                "figures": [
+                    {
+                        "id": "2016AvengersBoxSet(TargetExclusive)KateBishop",
+                        "name": "Kate Bishop",
+                        "series": "2016 Avengers Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2016AvengersBoxSet(TargetExclusive)SamWilson",
+                        "name": "Sam Wilson",
+                        "series": "2016 Avengers Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2016AvengersBoxSet(TargetExclusive)Vision",
+                        "name": "Vision",
+                        "series": "2016 Avengers Box Set (Target Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "TOYS R US EXCLUSIVES": [
+            {
+                "seriesname": "25th Anniversary Wolverine (Toys R Us Exclusive)",
+                "date": "200701",
+                "figures": [
+                    {
+                        "id": "25thAnniversaryWolverine(ToysRUsExclusive)25thAnniversaryWolverine",
+                        "name": "25th Anniversary Wolverine",
+                        "series": "25th Anniversary Wolverine (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Diamond Emma Frost (Toys R Us Exclusive)",
+                "date": "200702",
+                "figures": [
+                    {
+                        "id": "DiamondEmmaFrost(ToysRUsExclusive)DiamondEmmaFrost",
+                        "name": "Diamond Emma Frost",
+                        "series": "Diamond Emma Frost (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Black Queen (Toys R Us Exclusive)",
+                "date": "200706",
+                "figures": [
+                    {
+                        "id": "BlackQueen(ToysRUsExclusive)BlackQueen",
+                        "name": "Black Queen",
+                        "series": "Black Queen (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Two Packs Series 3 (Toys R Us Exclusive)",
+                "date": "201011",
+                "figures": [
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)BlackWidow",
+                        "name": "Black Widow",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)BlackWidowGrayVariant",
+                        "name": "Black Widow Gray Variant",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)Deadpool",
+                        "name": "Deadpool",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)DeadpoolVariant",
+                        "name": "Deadpool Variant",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)Hulk",
+                        "name": "Hulk",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)Valkyrie",
+                        "name": "Valkyrie",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)Warpath",
+                        "name": "Warpath",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)WarpathX-ForceVariant",
+                        "name": "Warpath X-Force Variant",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)WinterSoldier",
+                        "name": "Winter Soldier",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TwoPacksSeries3(ToysRUsExclusive)WinterSoldierVariant",
+                        "name": "Winter Soldier Variant",
+                        "series": "Two Packs Series 3 (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "All New X-Men Box Set (Toys R Us Exclusive)",
+                "date": "201401",
+                "figures": [
+                    {
+                        "id": "AllNewX-MenBoxSet(ToysRUsExclusive)Angel",
+                        "name": "Angel",
+                        "series": "All New X-Men Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllNewX-MenBoxSet(ToysRUsExclusive)Beast",
+                        "name": "Beast",
+                        "series": "All New X-Men Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllNewX-MenBoxSet(ToysRUsExclusive)Cyclops",
+                        "name": "Cyclops",
+                        "series": "All New X-Men Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllNewX-MenBoxSet(ToysRUsExclusive)Iceman",
+                        "name": "Iceman",
+                        "series": "All New X-Men Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AllNewX-MenBoxSet(ToysRUsExclusive)Marvel Girl",
+                        "name": "Marvel Girl",
+                        "series": "All New X-Men Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Jubilee Series (Toys R Us Exclusive)",
+                "date": "201408",
+                "figures": [
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)Cyclops",
+                        "name": "Cyclops",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)JubileeBAF",
+                        "name": "Jubilee BAF",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)Magneto",
+                        "name": "Magneto",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)Storm",
+                        "name": "Storm",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)Stryfe",
+                        "name": "Stryfe",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "JubileeSeries(ToysRUsExclusive)Wolverine",
+                        "name": "Wolverine",
+                        "series": "Jubilee Series (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]                   
+            },
+            {
+                "seriesname": "S.H.I.E.L.D. 3 Pack (Toys R Us Exclusive)",
+                "date": "201501",
+                "figures": [
+                    {
+                        "id": "S.H.I.E.L.D.3Pack(ToysRUsExclusive)MariaHill",
+                        "name": "Maria Hill",
+                        "series": "S.H.I.E.L.D. 3 Pack (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "S.H.I.E.L.D.3Pack(ToysRUsExclusive)NickFury",
+                        "name": "Nick Fury",
+                        "series": "S.H.I.E.L.D. 3 Pack (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "S.H.I.E.L.D.3Pack(ToysRUsExclusive)AgentCoulson",
+                        "name": "Agent Coulson",
+                        "series": "S.H.I.E.L.D. 3 Pack (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "WALGREENS EXCLUSIVES": [
+            {
+                "seriesname": "Agent Venom (Walgreens Exclusive)",
+                "date": "201406",
+                "figures": [
+                    {
+                        "id": "AgentVenom(WalgreensExclusive)AgentVenom",
+                        "name": "Agent Venom",
+                        "series": "Agent Venom (Walgreens Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Ant-Man (Walgreens Exclusive)",
+                "date": "201506",
+                "figures": [
+                    {
+                        "id": "Ant-Man(WalgreensExclusive)Ant-Man",
+                        "name": "Ant-Man",
+                        "series": "Ant-Man (Walgreens Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Daredevil (Walgreens Exclusive)",
+                "date": "201511",
+                "figures": [
+                    {
+                        "id": "Daredevil(WalgreensExclusive)FirstAppearanceDaredevil",
+                        "name": "First Appearance Daredevil",
+                        "series": "Daredevil (Walgreens Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Namor (Walgreens Exclusive)",
+                "date": "201603",
+                "figures": [
+                    {
+                        "id": "Namor(WalgreensExclusive)Namor",
+                        "name": "Namor",
+                        "series": "Namor (Walgreens Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Punisher (Walgreens Exclusive)",
+                "date": "201607",
+                "figures": [
+                    {
+                        "id": "Punisher(WalgreensExclusive)Punisher",
+                        "name": "Punisher",
+                        "series": "Punisher (Walgreens Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "WALMART EXCLUSIVES": [
+            {
+                "seriesname": "Silver Surfer (Wal-Mart Exclusive)",
+                "date": "200703",
+                "figures": [
+                    {
+                        "id": "SilverSurfer(Wal-MartExclusive)SilverSurfer",
+                        "name": "Silver Surfer",
+                        "series": "Silver Surfer (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Cannonball & Domino (Wal-Mart Exclusive)",
+                "date": "200704",
+                "figures": [
+                    {
+                        "id": "Cannonball&Domino(Wal-MartExclusive)Cannonball",
+                        "name": "Cannonball",
+                        "series": "Cannonball & Domino (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Cannonball&Domino(Wal-MartExclusive)Domino",
+                        "name": "Domino",
+                        "series": "Cannonball & Domino (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Cable & Marvel Girl (Wal-Mart Exclusive)",
+                "date": "200705",
+                "figures": [
+                    {
+                        "id": "Cable&MarvelGirl(Wal-MartExclusive)Cable",
+                        "name": "Cable",
+                        "series": "Cannonball & Domino (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Cable&MarvelGirl(Wal-MartExclusive)MarvelGirl",
+                        "name": "Marvel Girl",
+                        "series": "Cannonball & Domino (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Ares Series (Wal-Mart Exclusive)",
+                "date": "200810",
+                "figures": [
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)AresBAF",
+                        "name": "Ares BAF",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)Crossbones",
+                        "name": "Crossbones",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)Guardian",
+                        "name": "Guardian",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)HeroesRebornIronMan",
+                        "name": "Heroes Reborn Iron Man",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)HumanTorchSemi-translucentVariant",
+                        "name": "Human Torch Semi-translucent Variant",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)Kang",
+                        "name": "Kang",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)ScarletSpider",
+                        "name": "Scarlet Spider",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)Vision",
+                        "name": "Vision",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "AresSeries(Wal-MartExclusive)UltimateWarMachine",
+                        "name": "Ultimate War Machine",
+                        "series": "Ares Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Nemesis Series (Wal-Mart Exclusive)",
+                "date": "200907",
+                "figures": [
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)AstonishingBeast",
+                        "name": "Astonishing Beast",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)BlackBolt",
+                        "name": "Black Bolt",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)Daredevil",
+                        "name": "Daredevil",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)DaredevilVariant",
+                        "name": "Daredevil Variant",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)NemesisBAF",
+                        "name": "Nemesis BAF",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)Nova",
+                        "name": "Nova",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)Punisher",
+                        "name": "Punisher",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)PunisherVariant",
+                        "name": "Punisher Variant",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "NemesisSeries(Wal-MartExclusive)Tigra",
+                        "name": "Tigra",
+                        "series": "Nemesis Series (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Civil War Winter Soldier (Wal-Mart Exclusive)",
+                "date": "201606",
+                "figures": [
+                    {
+                        "id": "CivilWarWinterSoldier(Wal-MartExclusive)CivilWarWinterSoldier",
+                        "name": "Civil War Winter Soldier",
+                        "series": "Civil War Winter Soldier (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Civil War Falcon  (Wal-Mart Exclusive)",
+                "date": "201607",
+                "figures": [
+                    {
+                        "id": "CivilWarFalcon(Wal-MartExclusive)CivilWarFalcon",
+                        "name": "Civil War Falcon",
+                        "series": "Civil War Falcon (Wal-Mart Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "SDCC EXCLUSIVES": [
+            {
+                "seriesname": "Stan Lee (2007 SDCC Exclusive)",
+                "date": "200706",
+                "figures": [
+                    {
+                        "id": "StanLee(2007SDCCExclusive)StanLee",
+                        "name": "Stan Lee",
+                        "series": "Stan Lee (2007 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "She-Hulk (2007 SDCC Exclusive)",
+                "date": "200707",
+                "figures": [
+                    {
+                        "id": "She-Hulk(2007SDCCExclusive)She-Hulk",
+                        "name": "She-Hulk",
+                        "series": "She-Hulk (2007 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Savage Land Gift Set (2008 SDCC Exclusive)",
+                "date": "200807",
+                "figures": [
+                    {
+                        "id": "SavageLandGiftSet(2007SDCCExclusive)Ka-Zar",
+                        "name": "Ka-Zar",
+                        "series": "Savage Land Gift Set (2007 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SavageLandGiftSet(2007SDCCExclusive)Shanna",
+                        "name": "Shanna",
+                        "series": "Savage Land Gift Set (2007 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SavageLandGiftSet(2007SDCCExclusive)Zabu",
+                        "name": "Zabu",
+                        "series": "Savage Land Gift Set (2007 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Modern Thor (2011 SDCC Exclusive)",
+                "date": "201107",
+                "figures": [
+                    {
+                        "id": "ModernThor(2011SDCCExclusive)ModernThor",
+                        "name": "Modern Thor",
+                        "series": "Modern Thor (2011 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Uncanny X-Force Box Set (2012 SDCC Exclusive)",
+                "date": "201207",
+                "figures": [
+                    {
+                        "id": "UncannyX-ForceBoxSet(2012SDCCExclusive)Archangel",
+                        "name": "Archangel",
+                        "series": "Uncanny X-Force Box Set (2012 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UncannyX-ForceBoxSet(2012SDCCExclusive)Psylocke",
+                        "name": "Psylocke",
+                        "series": "Uncanny X-Force Box Set (2012 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UncannyX-ForceBoxSet(2012SDCCExclusive)Wolverine",
+                        "name": "Wolverine",
+                        "series": "Uncanny X-Force Box Set (2012 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                "date": "201307",
+                "figures": [
+                    {
+                        "id": "ThunderboltsBoxSet(2013SDCCExclusive)Crossbones",
+                        "name": "Crossbones",
+                        "series": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThunderboltsBoxSet(2013SDCCExclusive)Ghost",
+                        "name": "Ghost",
+                        "series": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThunderboltsBoxSet(2013SDCCExclusive)JudithChambers",
+                        "name": "Judith Chambers",
+                        "series": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThunderboltsBoxSet(2013SDCCExclusive)LukeCage",
+                        "name": "Luke Cage",
+                        "series": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ThunderboltsBoxSet(2013SDCCExclusive)Moonstone",
+                        "name": "Moonstone",
+                        "series": "Thunderbolts Box Set (2013 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                "date": "201407",
+                "figures": [
+                    {
+                        "id": "TheThanosImperativeBoxSet(2014SDCCExclusive)BlackBolt",
+                        "name": "Black Bolt",
+                        "series": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheThanosImperativeBoxSet(2014SDCCExclusive)Blastaar",
+                        "name": "Blastaar",
+                        "series": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheThanosImperativeBoxSet(2014SDCCExclusive)Gladiator",
+                        "name": "Gladiator",
+                        "series": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheThanosImperativeBoxSet(2014SDCCExclusive)Medusa",
+                        "name": "Medusa",
+                        "series": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheThanosImperativeBoxSet(2014SDCCExclusive)Star-Lord",
+                        "name": "Star-Lord",
+                        "series": "The Thanos Imperative Box Set (2014 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                "date": "201507",
+                "figures": [
+                    {
+                        "id": "TheBookofVishantiBoxSet(2015SDCCExclusive)BrotherVoodoo",
+                        "name": "BrotherVoodoo",
+                        "series": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheBookofVishantiBoxSet(2015SDCCExclusive)Dormammu",
+                        "name": "Dormammu",
+                        "series": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheBookofVishantiBoxSet(2015SDCCExclusive)Dr.Strange(AstralForm)",
+                        "name": "Dr. Strange (Astral Form)",
+                        "series": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheBookofVishantiBoxSet(2015SDCCExclusive)Magik",
+                        "name": "Magik",
+                        "series": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheBookofVishantiBoxSet(2015SDCCExclusive)Hela",
+                        "name": "Hela",
+                        "series": "The Book of Vishanti Box Set (2015 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "The Raft Box Set (20016 SDCC Exclusive)",
+                "date": "200706",
+                "figures": [
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)Abomination",
+                        "name": "Abomination",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)Dreadknight",
+                        "name": "Dreadknight",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)Enchantress",
+                        "name": "Enchantress",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)PurpleMan",
+                        "name": "Purple Man",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)SandFormSandman",
+                        "name": "Sand Form Sandman",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "TheRaftBoxSet(20016SDCCExclusive)Spider-Man",
+                        "name": "Spider-Man",
+                        "series": "The Raft Box Set (20016 SDCC Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ]
     }
 }
 

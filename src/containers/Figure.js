@@ -4,7 +4,7 @@ import { addOwned, removeOwned, addWanted, removeWanted } from '../actions'
 
 import '../styles/Figure.css'
 
-let Figure = ({ dispatch, figureData, owned, wanted}) => {
+let Figure = ({ dispatch, figureData,figureBrand, owned, wanted}) => {
     
     return (
         <div className="figureWrapper">
@@ -16,6 +16,8 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
                         dispatch(removeOwned(figureData.id))
                     }
                     else{
+                        figureData.Brand=figureBrand;
+                        console.log(JSON.stringify(figureData));
                         dispatch(addOwned(figureData))    
                     }
                 }} />
@@ -31,6 +33,7 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
                     dispatch(removeWanted(figureData.id))
                 }
                 else{
+                    figureData.Brand=figureBrand;
                     dispatch(addWanted(figureData))    
                 }
             }} >
@@ -42,6 +45,7 @@ let Figure = ({ dispatch, figureData, owned, wanted}) => {
 
 Figure.propTypes = {
   figureData: PropTypes.object,
+  figureBrand: PropTypes.string,
 }
 const mapStateToProps = (state) => ({
   owned: state.owned,
