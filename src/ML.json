@@ -208,6 +208,81 @@
                 ]
             },
             {
+                "seriesname": "Urban Legends Gift Pack",
+                "date": "200309",
+                "figures": [
+                    {
+                        "id": "UrbanLegendsGiftPackDaredevil",
+                        "name": "Daredevil",
+                        "series": "Urban Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UrbanLegendsGiftPackElektra",
+                        "name": "Elektra",
+                        "series": "Urban Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UrbanLegendsGiftPackPunisher",
+                        "name": "Punisher",
+                        "series": "Urban Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "UrbanLegendsGiftPackSpider-Man",
+                        "name": "Spider-Man",
+                        "series": "Urban Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "X-Men Legends Gift Pack",
+                "date": "200310",
+                "figures": [
+                    {
+                        "id": "X-MenLegendsGiftPackBeast",
+                        "name": "Beast",
+                        "series": "X-Men Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "X-MenLegendsGiftPackGambit",
+                        "name": "Gambit",
+                        "series": "X-Men Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "X-MenLegendsGiftPackMagneto",
+                        "name": "Magneto",
+                        "series": "X-Men Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "X-MenLegendsGiftPackRogue",
+                        "name": "Rogue",
+                        "series": "X-Men Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "X-MenLegendsGiftPackWolverine",
+                        "name": "Wolverine",
+                        "series": "X-Men Legends Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
                 "seriesname": "Series 5",
                 "date": "200311",
                 "figures": [
@@ -325,6 +400,130 @@
                 ]
             },
             {
+                "seriesname": "Spider-Man vs the Sinister Six Gift Pack",
+                "date": "200410",
+                "figures": [
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackBlackCat",
+                        "name": "Black Cat",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackDocOck",
+                        "name": "Doc Ock",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackElectro",
+                        "name": "Electro",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackGreenGoblin",
+                        "name": "Green Goblin",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackKraven",
+                        "name": "Kraven",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackSpider-Man",
+                        "name": "Spider-Man",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvstheSinisterSixGiftPackVenom",
+                        "name": "Venom",
+                        "series": "Spider-Man vs the Sinister Six Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Fantastic Four Box Gift Set",
+                "date": "200411",
+                "figures": [
+                    {
+                        "id": "FantasticFourBoxGiftSetDrDoom",
+                        "name": "Dr Doom",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetFranklinRichards",
+                        "name": "Franklin Richards",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetHERBIE",
+                        "name": "HERBIE",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetHumanTorch",
+                        "name": "Human Torch",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetHumanTorchTranslucentVariant",
+                        "name": "Human Torch Translucent Variant",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetInvisibleWoman",
+                        "name": "Invisible Woman",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetInvisibleWomanClearVariant",
+                        "name": "Invisible Woman Clear Variant",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetMr Fantastic",
+                        "name": "Mr Fantastic",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourBoxGiftSetThing",
+                        "name": "Thing",
+                        "series": "Fantastic Four Box Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
                 "seriesname": "Series 7",
                 "date": "200412",
                 "figures": [
@@ -387,8 +586,42 @@
                 ]
             },
             {
-                "seriesname": "Series 8",
+                "seriesname": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
                 "date": "200501",
+                "figures": [
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)InvisibleWoman",
+                        "name": "Invisible Woman",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)MrFantastic",
+                        "name": "Mr Fantastic",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)Thing",
+                        "name": "Thing",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 8",
+                "date": "200502",
                 "figures": [
                     {
                         "id": "Series8BlackWidow",
@@ -464,7 +697,7 @@
             },
             {
                 "seriesname": "Series 9 - Galactus Series",
-                "date": "200502",
+                "date": "200503",
                 "figures": [
                     {
                         "id": "Series9-GalactusSeriesBullseye",
@@ -540,7 +773,7 @@
             },
             {
                 "seriesname": "Series 10 - Sentinel Series",
-                "date": "200509",
+                "date": "200506",
                 "figures": [
                     {
                         "id": "Series10-SentinelSeriesAngel",
@@ -609,6 +842,47 @@
                         "id": "Series10-SentinelSeriesSentinelBAF",
                         "name": "Sentinel BAF",
                         "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Spider-Man vs The Fearsome Foes Gift Set",
+                "date": "200507",
+                "figures": [
+                    {
+                        "id": "Spider-ManvsTheFearsomeFoesGiftSetCarnage",
+                        "name": "Carnage",
+                        "series": "Spider-Man vs The Fearsome Foes Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvsTheFearsomeFoesGiftSetLizard",
+                        "name": "Lizard",
+                        "series": "Spider-Man vs The Fearsome Foes Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvsTheFearsomeFoesGiftSetRhino",
+                        "name": "Rhino",
+                        "series": "Spider-Man vs The Fearsome Foes Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvsTheFearsomeFoesGiftSetSpider-Man",
+                        "name": "Spider-Man",
+                        "series": "Spider-Man vs The Fearsome Foes Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Spider-ManvsTheFearsomeFoesGiftSetVulture",
+                        "name": "Vulture",
+                        "series": "Spider-Man vs The Fearsome Foes Gift Set",
                         "quantity": "0",
                         "img": ""
                     }
@@ -789,7 +1063,7 @@
             },
             {
                 "seriesname": "Giant Man Series (Wal-Mart exclusive)",
-                "date": "200604",
+                "date": "200601",
                 "figures": [
                     {
                         "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseSabertooth",
@@ -893,7 +1167,7 @@
             },
             {
                 "seriesname": "Series 13 - Onslaught Series",
-                "date": "200605",
+                "date": "200602",
                 "figures": [
                     {
                         "id": "Series13-OnslaughtSeriesAbomination",
@@ -962,6 +1236,164 @@
                         "id": "Series13-OnslaughtSeriesPyro",
                         "name": "Pyro",
                         "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Monsters Gift Pack",
+                "date": "200603",
+                "figures": [
+                    {
+                        "id": "MonstersGiftPackDracula",
+                        "name": "Dracula",
+                        "series": "Monsters Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MonstersGiftPackFrankenstein",
+                        "name": "Frankenstein",
+                        "series": "Monsters Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MonstersGiftPackWerewolfbyNight",
+                        "name": "Werewolf by Night",
+                        "series": "Monsters Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "MonstersGiftPackZombie",
+                        "name": "Zombie",
+                        "series": "Monsters Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Young Avengers Gift Pack",
+                "date": "200604",
+                "figures": [
+                    {
+                        "id": "YoungAvengersGiftPackAsgardian",
+                        "name": "Asgardian",
+                        "series": "Young Avengers Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "YoungAvengersGiftPackHulkling",
+                        "name": "Hulkling",
+                        "series": "Young Avengers Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "YoungAvengersGiftPackIronLad",
+                        "name": "Iron Lad",
+                        "series": "Young Avengers Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "YoungAvengersGiftPackPatriot",
+                        "name": "Patriot",
+                        "series": "Young Avengers Gift Pack",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Face Off Series 1",
+                "date": "200606",
+                "figures": [
+                    {
+                        "id": "FaceOffSeries1BaronVonStruckerVariant",
+                        "name": "Baron Von Strucker Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1CaptainAmerica",
+                        "name": "Captain America",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1CaptainAmericaUnmaskedVariant",
+                        "name": "Captain America Unmasked Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1Daredevil",
+                        "name": "Daredevil",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1DaredevilUnmaskedVariant",
+                        "name": "Daredevil Unmasked Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1Hulk",
+                        "name": "Hulk",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1HulkVariant",
+                        "name": "Hulk Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1Kingpin",
+                        "name": "Kingpin",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1KingpinVariant",
+                        "name": "Kingpin Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1Leader",
+                        "name": "Leader",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1LeaderClassicVariant",
+                        "name": "Leader Classic Variant",
+                        "series": "Face Off Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries1RedSkull",
+                        "name": "Red Skull",
+                        "series": "Face Off Series 1",
                         "quantity": "0",
                         "img": ""
                     }
@@ -1142,6 +1574,130 @@
                         "id": "Series15-M.O.D.O.K.SeriesWaspBlueCostumeVariant",
                         "name": "WaspBlueCostumeVariant",
                         "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Face Off Series 2",
+                "date": "200611",
+                "figures": [
+                    {
+                        "id": "FaceOffSeries2FirstAppearanceWolverine",
+                        "name": "First Appearance Wolverine",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2FirstAppearanceWolverineVariant",
+                        "name": "First Appearance Wolverine Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2Jigsaw",
+                        "name": "Jigsaw",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2JigsawBusinessSuitVariant",
+                        "name": "Jigsaw Business Suit Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2Mandarin",
+                        "name": "Mandarin",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2MandarinVariant",
+                        "name": "Mandarin Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2ModularIronMan",
+                        "name": "Modular Iron Man",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2Punisher",
+                        "name": "Punisher",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2PunisherVariant",
+                        "name": "Punisher Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2Sabertooth",
+                        "name": "Sabertooth",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2SabertoothVariant",
+                        "name": "Sabertooth Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FaceOffSeries2WarMachineVariant",
+                        "name": "War Machine Variant",
+                        "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "House Of M Gift Set",
+                "date": "200612",
+                "figures": [
+                    {
+                        "id": "HouseOfMGiftSetHouseofMHulk",
+                        "name": "House of M Hulk",
+                        "series": "House Of M Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HouseOfMGiftSetHouseofMIronMan",
+                        "name": "House of M Iron Man",
+                        "series": "House Of M Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HouseOfMGiftSetHouseofMTheInhumanTorch",
+                        "name": "House of M The Inhuman Torch",
+                        "series": "House Of M Gift Set",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HouseOfMGiftSetHouseofMTheIt",
+                        "name": "House of M The It",
+                        "series": "House Of M Gift Set",
                         "quantity": "0",
                         "img": ""
                     }
