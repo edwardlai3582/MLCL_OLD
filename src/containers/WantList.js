@@ -24,7 +24,7 @@ let WantList = ({ dispatch, wanted}) => {
         <section className="topLevelChildrenWrapper">
         <div className="wantlistWrapper">
             <h2>
-                WANTLIST
+                WANT LIST
             </h2>
             <ul>
                 {wantArray.map(figure =>

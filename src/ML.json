@@ -55,6 +55,1097 @@
                         "img": ""
                     }
                 ]
+            },
+            {
+                "seriesname": "Series 2",
+                "date": "200209",
+                "figures": [
+                    {
+                        "id": "Series2DrDoom",
+                        "name": "Dr Doom",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2Doombot",
+                        "name": "Doombot",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2HumanTorchwith4onchest",
+                        "name": "Human Torch with 4 on chest",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2Namor",
+                        "name": "Namor",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2Thing",
+                        "name": "Thing",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2ThingTrenchcoatvariant",
+                        "name": "Thing Trenchcoat variant",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 3",
+                "date": "200212",
+                "figures": [
+                    {
+                        "id": "Series3Daredevil",
+                        "name": "Daredevil",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series3GhostRider",
+                        "name": "Ghost Rider",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series3Magneto",
+                        "name": "Magneto",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series3Thor",
+                        "name": "Thor",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series3Wolverine",
+                        "name": "Wolverine",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series3UnmaskedWolverineVariant",
+                        "name": "Unmasked Wolverine Variant",
+                        "series": "Series 3",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 4",
+                "date": "200301",
+                "figures": [
+                    {
+                        "id": "Series4Beast",
+                        "name": "Beast",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series4Elektra",
+                        "name": "Elektra",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series4Gambit",
+                        "name": "Gambit",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series4Goliath",
+                        "name": "Goliath",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series4Punisher",
+                        "name": "Punisher",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series4PunisherwithBlackbelt",
+                        "name": "Punisher with Black belt",
+                        "series": "Series 4",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 5",
+                "date": "200311",
+                "figures": [
+                    {
+                        "id": "Series5Colossus",
+                        "name": "Colossus",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5MovieBlade",
+                        "name": "Movie Blade",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5Mr Fantastic",
+                        "name": "MrFantastic",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5NickFury",
+                        "name": "Nick Fury",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5RedSkull",
+                        "name": "Red Skull",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5Sabertooth",
+                        "name": "Sabertooth",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series5SilverSurfer",
+                        "name": "Silver Surfer",
+                        "series": "Series 5",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 6",
+                "date": "200409",
+                "figures": [
+                    {
+                        "id": "Series6Cable",
+                        "name": "Cable",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6CableVariant",
+                        "name": "Cable Variant",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6DarkPhoenix",
+                        "name": "Dark Phoenix",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6Deadpool",
+                        "name": "Deadpool",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6Juggernaut",
+                        "name": "Juggernaut",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6MoviePunisher",
+                        "name": "Movie Punisher",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6Phoenix",
+                        "name": "Phoenix",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series6WolverineBrowncostume",
+                        "name": "Wolverine Brown costume",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 7",
+                "date": "200412",
+                "figures": [
+                    {
+                        "id": "Series7Apocalypse",
+                        "name": "Apocalypse",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7Ghost Rider",
+                        "name": "Ghost Rider",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7GhostRiderPhasingVariant",
+                        "name": "Ghost Rider Phasing Variant",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7Hawkeye",
+                        "name": "Hawkeye",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7SilverCenturianIronMan",
+                        "name": "Silver Centurian Iron Man",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7Vision",
+                        "name": "Vision",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7VisionPhasingVariant",
+                        "name": "Vision Phasing Variant",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series7WeaponX",
+                        "name": "Weapon X",
+                        "series": "Series 7",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 8",
+                "date": "200501",
+                "figures": [
+                    {
+                        "id": "Series8BlackWidow",
+                        "name": "Black Widow",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8BlackWidowIIVariant",
+                        "name": "Black Widow II Variant",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8ClassicCaptainAmericaVariant",
+                        "name": "Classic Captain America Variant",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8DocOck",
+                        "name": "Doc Ock",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8Iceman",
+                        "name": "Iceman",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8ModernIronMan",
+                        "name": "Modern Iron Man",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8Man-Thing",
+                        "name": "Man-Thing",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8Storm",
+                        "name": "Storm",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8StormMohawkVariant",
+                        "name": "Storm Mohawk Variant",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8UltimateCaptainAmerica",
+                        "name": "Ultimate Captain America",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 9 - Galactus Series",
+                "date": "200502",
+                "figures": [
+                    {
+                        "id": "Series9-GalactusSeriesBullseye",
+                        "name": "Bullseye",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesBullseyeVariant",
+                        "name": "Bullseye Variant",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesDeathlok",
+                        "name": "Deathlok",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesDrStrange",
+                        "name": "Dr Strange",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesFirstAppearanceHulk",
+                        "name": "First Appearance Hulk",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesFirstAppearanceGreenHulkVariant",
+                        "name": "First Appearance Green Hulk Variant",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesGalactusBAF",
+                        "name": "Galactus BAF",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesNightcrawler",
+                        "name": "Nightcrawler",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesProfessorX",
+                        "name": "Professor X",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series9-GalactusSeriesWarMachine",
+                        "name": "War Machine",
+                        "series": "Series 9 - Galactus Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 10 - Sentinel Series",
+                "date": "200509",
+                "figures": [
+                    {
+                        "id": "Series10-SentinelSeriesAngel",
+                        "name": "Angel",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesAngelBlueCostumeVariant",
+                        "name": "Angel Blue Costume Variant",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesBlack Panther",
+                        "name": "Black Panther",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesCyclops",
+                        "name": "Cyclops",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesCyclopsX-FactorVariant",
+                        "name": "Cyclops X-Factor Variant",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesFirstAppearenceSpider-Man",
+                        "name": "First Appearence Spider-Man",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesMrSinister",
+                        "name": "Mr Sinister",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesMystique",
+                        "name": "Mystique",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesOmegaRed",
+                        "name": "Omega Red",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series10-SentinelSeriesSentinelBAF",
+                        "name": "Sentinel BAF",
+                        "series": "Series 10 - Sentinel Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 11 - Legendary Rider Series",
+                "date": "200509",
+                "figures": [
+                    {
+                        "id": "Series11-LegendaryRiderSeriesFirstAppearanceThing",
+                        "name": "First Appearance Thing",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesHulkBusterIronMan",
+                        "name": "Hulk Buster Iron Man",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesLogan",
+                        "name": "Logan",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesLoganVariant",
+                        "name": "Logan Variant",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesScarletWitch",
+                        "name": "Scarlet Witch",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesTaskmaster",
+                        "name": "Taskmaster",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesUltron",
+                        "name": "Ultron",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesVengeance",
+                        "name": "Vengeance",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSerieWonderMan",
+                        "name": "Wonder Man",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series11-LegendaryRiderSeriesWonderManIonicVariant",
+                        "name": "Wonder Man Ionic Variant",
+                        "series": "Series 11 - Legendary Rider Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 12 - Apocalypse Series",
+                "date": "200512",
+                "figures": [
+                    {
+                        "id": "Series12-ApocalypseSeriesApocalypseBAF(blue)",
+                        "name": "Apocalypse BAF (blue)",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesApocalypseBAF(black)",
+                        "name": "Apocalypse BAF (black)",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesBishop",
+                        "name": "Bishop",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesBishopVariant",
+                        "name": "Bishop Variant",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesIronFist",
+                        "name": "Iron Fist",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesIronFistVariant",
+                        "name": "Iron Fist Variant",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesMaestro",
+                        "name": "Maestro",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesSasquatch",
+                        "name": "Sasquatch",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesSasquatchWhiteVariant",
+                        "name": "Sasquatch White Variant",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesWolverine(AstonishingX-Men)",
+                        "name": "Wolverine (Astonishing X-Men)",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesWolverine(Astonishing X-Men)UnmaskedVariant",
+                        "name": "Wolverine (Astonishing X-Men) Unmasked Variant",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesX-23",
+                        "name": "X-23",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series12-ApocalypseSeriesX-23Variant",
+                        "name": "X-23 Variant",
+                        "series": "Series 12 - Apocalypse Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Giant Man Series (Wal-Mart exclusive)",
+                "date": "200604",
+                "figures": [
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseSabertooth",
+                        "name": "Age of Apocalypse Sabertooth",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponX",
+                        "name": "Age of Apocalypse Weapon X",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponXBurnedVariant",
+                        "name": "Age of Apocalypse Weapon X Burned Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AntMan",
+                        "name": "Ant Man",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)CaptainBritain",
+                        "name": "Captain Britain",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)GiantManBAF",
+                        "name": "Giant Man BAF",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Havok",
+                        "name": "Havok",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)KittyPryde",
+                        "name": "Kitty Pryde",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniform",
+                        "name": "Sentry tan-and-blue uniform",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniform",
+                        "name": "Sentry yellow-and-blue uniform",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniformVariant",
+                        "name": "Sentry tan-and-blue uniform Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniformVariant",
+                        "name": "Sentry yellow-and-blue uniform Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Thor",
+                        "name": "Thor",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Warbird",
+                        "name": "Warbird",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 13 - Onslaught Series",
+                "date": "200605",
+                "figures": [
+                    {
+                        "id": "Series13-OnslaughtSeriesAbomination",
+                        "name": "Abomination",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesAbominationMeltedFaceVariant",
+                        "name": "Abomination Melted Face Variant",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesBlackheart",
+                        "name": "Blackheart",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesGreenGoblin",
+                        "name": "Green Goblin",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesGreenGoblinUnmaskedVariant",
+                        "name": "Green Goblin Unmasked Variant",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesLadyDeathstrike",
+                        "name": "Lady Deathstrike",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesLoki",
+                        "name": "Loki",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesLokiCrownofLiesVariant",
+                        "name": "Loki Crown of Lies Variant",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesOnslaughtBAF",
+                        "name": "Onslaught BAF",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series13-OnslaughtSeriesPyro",
+                        "name": "Pyro",
+                        "series": "Series 13 - Onslaught Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 14 - Mojo Series",
+                "date": "200608",
+                "figures": [
+                    {
+                        "id": "Series14-MojoSeriesBaronZemo",
+                        "name": "Baron Zemo",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesBaronZemoUnmaskedVariant",
+                        "name": "Baron Zemo Unmasked Variant",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesFalcon",
+                        "name": "Falcon",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesFalconModernVariant",
+                        "name": "Falcon Modern Variant",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesFirstAppearanceIronMan",
+                        "name": "First Appearance Iron Man",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesFirstAppearanceIronManGoldVariant",
+                        "name": "First Appearance Iron Man Gold Variant",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesLongshot",
+                        "name": "Longshot",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesLukeCage",
+                        "name": "Luke Cage",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesLukeCageSilverVariant",
+                        "name": "Luke Cage Silver Variant",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesMojoBAF",
+                        "name": "Mojo BAF",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesPsylocke",
+                        "name": "Psylocke",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Series 15 - M.O.D.O.K. Series",
+                "date": "200610",
+                "figures": [
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesBetaRayBill",
+                        "name": "Beta Ray Bill",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesCaptainMarvel",
+                        "name": "Captain Marvel",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesCaptainMarvelGenis-VellVariant",
+                        "name": "Captain Marvel Genis-Vell Variant",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesDestroyer(ThorbusterIronManVariant)",
+                        "name": "Destroyer ( Thorbuster Iron Man Variant)",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesM.O.D.O.K.BAF",
+                        "name": "M.O.D.O.K. BAF",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesMoonKnight",
+                        "name": "Moon Knight",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesMoonKnightVariant",
+                        "name": "Moon Knight Variant",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesSpider-Woman",
+                        "name": "Spider-Woman",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesSpider-WomanJuliaCarpenterVariant",
+                        "name": "Spider-Woman Julia Carpenter Variant",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesThorbusterIronMan",
+                        "name": "Thorbuster Iron Man",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesWasp",
+                        "name": "Wasp",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesWaspRedCostumeVariant",
+                        "name": "Wasp Red Costume Variant",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series15-M.O.D.O.K.SeriesWaspBlueCostumeVariant",
+                        "name": "WaspBlueCostumeVariant",
+                        "series": "Series 15 - M.O.D.O.K. Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
             }
         ]    
     },

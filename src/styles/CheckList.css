@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Bangers';
+
 .tOrHWrapper {
     background-color: dimgrey;
     width: 100%;
@@ -5,10 +7,10 @@
 
 .tOrHWrapper button {
     width: 50%;
-    margin: 10px 0 0;
+    margin: 8px 0 0;
     padding: 5px;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 4.5vw;
+    font-family: 'Bangers';
     background-color: white;
     border-style: solid;
     border-width: 1vw;
@@ -17,6 +19,10 @@
     border-top: none;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+}
+
+.tOrHWrapper button:focus {
+    outline: white;
 }
 
 .tOrHWrapper button.notCurrent {
@@ -34,7 +40,13 @@
     padding-bottom: 30px;
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 500px) {
+    .tOrHWrapper button {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 350px) {    
     .topLevelChildrenWrapper {
         width: 98%;
         margin: 0 1%;
