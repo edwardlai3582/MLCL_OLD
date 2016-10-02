@@ -788,110 +788,6 @@
                 ]
             },
             {
-                "seriesname": "Giant Man Series (Wal-Mart exclusive)",
-                "date": "200601",
-                "figures": [
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseSabertooth",
-                        "name": "Age of Apocalypse Sabertooth",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponX",
-                        "name": "Age of Apocalypse Weapon X",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponXBurnedVariant",
-                        "name": "Age of Apocalypse Weapon X Burned Variant",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)AntMan",
-                        "name": "Ant Man",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)CaptainBritain",
-                        "name": "Captain Britain",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)GiantManBAF",
-                        "name": "Giant Man BAF",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Havok",
-                        "name": "Havok",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)KittyPryde",
-                        "name": "Kitty Pryde",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniform",
-                        "name": "Sentry tan-and-blue uniform",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniform",
-                        "name": "Sentry yellow-and-blue uniform",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniformVariant",
-                        "name": "Sentry tan-and-blue uniform Variant",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniformVariant",
-                        "name": "Sentry yellow-and-blue uniform Variant",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Thor",
-                        "name": "Thor",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "GiantManSeries(Wal-Martexclusive)Warbird",
-                        "name": "Warbird",
-                        "series": "Giant Man Series (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    }
-                ]
-            },
-            {
                 "seriesname": "Series 13 - Onslaught Series",
                 "date": "200602",
                 "figures": [
@@ -1349,40 +1245,6 @@
                 ]
             },
             {
-                "seriesname": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
-                "date": "200501",
-                "figures": [
-                    {
-                        "id": "FantasticFourGiftPack(Wal-Martexclusive)HumanTorch",
-                        "name": "Human Torch",
-                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "FantasticFourGiftPack(Wal-Martexclusive)InvisibleWoman",
-                        "name": "Invisible Woman",
-                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "FantasticFourGiftPack(Wal-Martexclusive)MrFantastic",
-                        "name": "Mr Fantastic",
-                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "FantasticFourGiftPack(Wal-Martexclusive)Thing",
-                        "name": "Thing",
-                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    }
-                ]
-            },
-            {
                 "seriesname": "Spider-Man vs The Fearsome Foes Gift Set",
                 "date": "200507",
                 "figures": [
@@ -1702,6 +1564,146 @@
                         "id": "FaceOffSeries2WarMachineVariant",
                         "name": "War Machine Variant",
                         "series": "Face Off Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+        ],
+        "STORE EXCLUSIVES": [
+            {
+                "seriesname": "Giant Man Series (Wal-Mart exclusive)",
+                "date": "200601",
+                "figures": [
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseSabertooth",
+                        "name": "Age of Apocalypse Sabertooth",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponX",
+                        "name": "Age of Apocalypse Weapon X",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AgeofApocalypseWeaponXBurnedVariant",
+                        "name": "Age of Apocalypse Weapon X Burned Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)AntMan",
+                        "name": "Ant Man",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)CaptainBritain",
+                        "name": "Captain Britain",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)GiantManBAF",
+                        "name": "Giant Man BAF",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Havok",
+                        "name": "Havok",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)KittyPryde",
+                        "name": "Kitty Pryde",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniform",
+                        "name": "Sentry tan-and-blue uniform",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniform",
+                        "name": "Sentry yellow-and-blue uniform",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentrytan-and-blueuniformVariant",
+                        "name": "Sentry tan-and-blue uniform Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Sentryyellow-and-blueuniformVariant",
+                        "name": "Sentry yellow-and-blue uniform Variant",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Thor",
+                        "name": "Thor",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "GiantManSeries(Wal-Martexclusive)Warbird",
+                        "name": "Warbird",
+                        "series": "Giant Man Series (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                "date": "200501",
+                "figures": [
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)InvisibleWoman",
+                        "name": "Invisible Woman",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)MrFantastic",
+                        "name": "Mr Fantastic",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourGiftPack(Wal-Martexclusive)Thing",
+                        "name": "Thing",
+                        "series": "Fantastic Four Gift Pack (Wal-Mart exclusive)",
                         "quantity": "0",
                         "img": ""
                     }

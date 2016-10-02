@@ -12,9 +12,9 @@ let WantList = ({ dispatch, wanted}) => {
         }
     }
     wantArray.sort(function(a, b){        
-        if(a.name < b.name){
+        if(a.id < b.id){
             return -1;
-        }else if(a.name > b.name){
+        }else if(a.id > b.id){
             return 1;
         }
         return 0;
