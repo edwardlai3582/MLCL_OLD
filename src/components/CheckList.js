@@ -19,11 +19,26 @@ class CheckList extends React.Component {
     render(){
         let toybizButtonClass = this.state.toybiz? "" : "notCurrent";
         let hasbroButtonClass = this.state.toybiz? "notCurrent" : "";
-        let whichSeries = this.state.toybiz? MLData.Toybiz.series.map(series =>
+        let whichSeries = [];
+        
+        if(this.state.toybiz){
+            for (let key in MLData.Toybiz) {
+                if (MLData.Toybiz.hasOwnProperty(key)) {
+                    whichSeries.push(<h2 key={"Toybiz"+key} className="typeWrapper">{key}</h2>, ...MLData.Toybiz[key].map(series =>
                         <Series key={series.seriesname} seriesData={series} />
-                    ) : MLData.Hasbro.series.map(series =>
+                    ));        
+                }   
+            }
+        }
+        else{
+            for (let key in MLData.Hasbro) {
+                if (MLData.Hasbro.hasOwnProperty(key)) {
+                    whichSeries.push(<h2 key={"Hasbro"+key} className="typeWrapper">{key}</h2>, ...MLData.Hasbro[key].map(series =>
                         <Series key={series.seriesname} seriesData={series} />
-                    )
+                    ));        
+                }   
+            }            
+        }
         
         return (
             <div>

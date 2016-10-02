@@ -40,6 +40,10 @@
     padding-bottom: 30px;
 }
 
+.typeWrapper {
+    text-align: center;
+}
+
 @media only screen and (max-width: 500px) {
     .tOrHWrapper button {
         font-size: 20px;

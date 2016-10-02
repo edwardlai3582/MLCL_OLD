@@ -5,7 +5,20 @@ import MLData from '../ML.json'
 import '../styles/HomePage.css'
 
 let HomePAge = ({ dispatch, owned}) => {
-
+    let totalNumber = 0;
+                            
+    for (let key1 in MLData) {
+        if (MLData.hasOwnProperty(key1)) {
+            for (let key2 in MLData[key1]) {
+                if (MLData[key1].hasOwnProperty(key2)) {
+                    totalNumber +=  MLData[key1][key2].reduce( 
+                        (previousValue, currentValue, currentIndex, array) => currentValue.figures.length + previousValue
+                        , 0)   
+                }
+            }
+        }
+    }
+    
     return (
         <section className="homeWrapper">
             <section className="homeHero">
@@ -14,17 +27,7 @@ let HomePAge = ({ dispatch, owned}) => {
                         YOU HAVE COMPLETED
                     </div>
                     <div>
-                        {Object.getOwnPropertyNames(owned).length}
-                        /
-                        {
-                            MLData.Hasbro.series.reduce( (previousValue, currentValue, currentIndex, array) => {
-                                return currentValue.figures.length + previousValue;
-                            }, 0)
-                            +
-                            MLData.Toybiz.series.reduce( (previousValue, currentValue, currentIndex, array) => {
-                                return currentValue.figures.length + previousValue;
-                            }, 0)
-                        }
+                        {Object.getOwnPropertyNames(owned).length} / {totalNumber}
                     </div>
                     <div>
                         OF THE JOURNEY!!
