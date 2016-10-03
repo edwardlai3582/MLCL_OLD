@@ -4110,33 +4110,6 @@
                         "img": ""
                     }
                 ]
-            },
-            {
-                "seriesname": "2016 Avengers Box Set (Target Exclusive)",
-                "date": "201608",
-                "figures": [
-                    {
-                        "id": "2016AvengersBoxSet(TargetExclusive)KateBishop",
-                        "name": "Kate Bishop",
-                        "series": "2016 Avengers Box Set (Target Exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "2016AvengersBoxSet(TargetExclusive)SamWilson",
-                        "name": "Sam Wilson",
-                        "series": "2016 Avengers Box Set (Target Exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    },
-                    {
-                        "id": "2016AvengersBoxSet(TargetExclusive)Vision",
-                        "name": "Vision",
-                        "series": "2016 Avengers Box Set (Target Exclusive)",
-                        "quantity": "0",
-                        "img": ""
-                    }
-                ]
             }
         ],
         "TOYS R US EXCLUSIVES": [
@@ -4370,7 +4343,34 @@
                         "img": ""
                     }
                 ]
-            }
+            },
+            {
+                "seriesname": "2016 Avengers Box Set (Toys R Us Exclusive)",
+                "date": "201608",
+                "figures": [
+                    {
+                        "id": "2016AvengersBoxSet(ToysRUsExclusive)KateBishop",
+                        "name": "Kate Bishop",
+                        "series": "2016 Avengers Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2016AvengersBoxSet(ToysRUsExclusive)SamWilson",
+                        "name": "Sam Wilson",
+                        "series": "2016 Avengers Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "2016AvengersBoxSet(ToysRUsExclusive)Vision",
+                        "name": "Vision",
+                        "series": "2016 Avengers Box Set (Toys R Us Exclusive)",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }    
         ],
         "WALGREENS EXCLUSIVES": [
             {

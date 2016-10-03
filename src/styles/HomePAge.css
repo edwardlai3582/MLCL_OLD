@@ -1,7 +1,7 @@
 /*@import 'https://fonts.googleapis.com/css?family=Bangers';*/
 @font-face {
     font-family: KOMIKAX;
-    src: url(KOMIKAX_.ttf);
+    src: url(BadaboomBB_Reg.ttf);
 }
 
 .homeWrapper {
@@ -27,7 +27,7 @@
     width: 47vw;
     height: 17.5vw;
     color: black;
-    font-size: 4vw;
+    font-size: 5vw;
     text-align: center;
 }
 
