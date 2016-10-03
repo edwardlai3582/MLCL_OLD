@@ -1,4 +1,8 @@
-@import 'https://fonts.googleapis.com/css?family=Bangers';
+/*@import 'https://fonts.googleapis.com/css?family=Bangers';*/
+@font-face {
+    font-family: KOMIKAX;
+    src: url(KOMIKAX_.ttf);
+}
 
 .homeWrapper {
     position: relative;
@@ -14,16 +18,16 @@
 }
 
 .homeMessage {
-    font-family: 'Bangers';
+    font-family: 'KOMIKAX';/*'Bangers';*/
     background-color: none;
     display: inline-block;
     position: relative;
-    top: 7vw;
-    left: 15vw;
+    top: 6vw;
+    left: 15.5vw;
     width: 47vw;
     height: 17.5vw;
     color: black;
-    font-size: 5vw;
+    font-size: 4vw;
     text-align: center;
 }
 
@@ -39,7 +43,7 @@
     padding: 5px 0;
     text-align: center;
     font-size: 32px;
-    font-family: 'Bangers', cursive;
+    font-family: 'KOMIKAX', cursive;
 }
 
 .homeABout article {

@@ -1,4 +1,8 @@
- @import 'https://fonts.googleapis.com/css?family=Catamaran:700';
+/*@import 'https://fonts.googleapis.com/css?family=Catamaran:700';*/
+@font-face {
+    font-family: BEBAS;
+    src: url(BEBAS___.ttf);
+}
 
 html, body {
 	margin: 0;
@@ -28,8 +32,9 @@ header {
 
 header h1 {
     margin: 0;
-    font-family: 'Catamaran', sans-serif;
-    font-size: 1.7em;
+    font-family: 'BEBAS', sans-serif;
+    /*font-size: 1.7em;*/
+    font-size: 30px;
 }
 
 .headerAbbr {

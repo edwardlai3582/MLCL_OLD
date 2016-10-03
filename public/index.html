@@ -2,9 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="Marvel Legends Checklist">
+    <meta name="description" content="Poop Legends Checklist">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes">
+    
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link href="%PUBLIC_URL%/apple-icon.png" rel="apple-touch-icon" />
+    <link href="%PUBLIC_URL%/android-icon-192x192.png" rel="icon" sizes="192x192" />
     <!--
       Notice the use of %PUBLIC_URL% in the tag above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -14,7 +22,16 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>Marvel Legends Checklist</title>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-84710293-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <title>Poop Legends Checklist</title>
   </head>
   <body>
     <div id="root"></div>

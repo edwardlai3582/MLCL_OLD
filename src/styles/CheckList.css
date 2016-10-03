@@ -1,4 +1,7 @@
-@import 'https://fonts.googleapis.com/css?family=Bangers';
+@font-face {
+    font-family: KOMIKAX;
+    src: url(KOMIKAX_.ttf);
+}
 
 .tOrHWrapper {
     background-color: dimgrey;
@@ -10,7 +13,7 @@
     margin: 8px 0 0;
     padding: 5px;
     font-size: 4.5vw;
-    font-family: 'Bangers';
+    font-family: 'KOMIKAX';
     background-color: white;
     border-style: solid;
     border-width: 1vw;
