@@ -39,6 +39,7 @@ let HomePAge = ({ dispatch, owned}) => {
                 <article>
                     <p>{`This is a website helps you manage your Marvel Legends collection.`}</p>
                     <p>{`Your data is stored in browser's localstorage.`}</p>
+                    <p>{`Use appcache to support offline use.`}</p>
                     <p>{`Go to checklist to start managing your collection.`}</p>
                     <p>{`Go to wantlist to check your want list.`}</p>
                 </article>
