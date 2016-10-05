@@ -1709,6 +1709,105 @@
                     }
                 ]
             }
+        ],
+        "Fantastic Four Classics": [
+            {
+                "seriesname": "Fantastic Four Classics Series 1",
+                "date": "200601",
+                "figures": [
+                    {
+                        "id": "FantasticFourClassicsSeries1HumanTorch",
+                        "name": "Human Torch",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries1Mr.Fantastic",
+                        "name": "Mr. Fantastic",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries1TransformingSuperSkrull",
+                        "name": "Transforming Super Skrull",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries1TransformingSuperSkrullTranslucentOrangeVariant",
+                        "name": "Transforming Super Skrull Translucent Orange Variant",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries1TransformingSuperSkrullClearVariant",
+                        "name": "Transforming Super Skrull Clear Variant",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries1ThunderLaunchThing",
+                        "name": "Thunder Launch Thing",
+                        "series": "Fantastic Four Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Fantastic Four Classics Series 2",
+                "date": "200607",
+                "figures": [
+                    {
+                        "id": "FantasticFourClassicsSeries2DragonMan",
+                        "name": "Dragon Man",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries2InvisibleWoman",
+                        "name": "Invisible Woman",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries2InvisibleWomanClearVariant",
+                        "name": "Invisible Woman Clear Variant",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries2Kang",
+                        "name": "Kang",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries2TransformingJohnnyStorm",
+                        "name": "Transforming Johnny Storm",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "FantasticFourClassicsSeries2Twist'NSlamThing",
+                        "name": "Twist 'N Slam Thing",
+                        "series": "Fantastic Four Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
+            
         ]
     },
     "Hasbro": {
@@ -2259,6 +2358,13 @@
                     {
                         "id": "ArnimZolaArnimZolaBAF",
                         "name": "Arnim Zola BAF",
+                        "series": "Arnim Zola Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "ArnimZolaArnimZolaBAF",
+                        "name": "Red Skull Zola BAF Variant",
                         "series": "Arnim Zola Series",
                         "quantity": "0",
                         "img": ""
