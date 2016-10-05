@@ -1,4 +1,4 @@
-var staticCacheName = 'mlcl-static-v2';
+var staticCacheName = 'mlcl-static-v4';
 var contentImgsCache = 'mlcl-content-imgs';
 var allCaches = [
   staticCacheName,
@@ -43,6 +43,7 @@ self.addEventListener('activate', function(event) {
     );
 });
 
+/*
 self.addEventListener('fetch', function(event) {
   console.log('Handling fetch event for', event.request.url);
 
@@ -75,3 +76,27 @@ self.addEventListener('fetch', function(event) {
     })
   );
 });
+*/
+///*
+self.addEventListener('fetch', function(event) {
+    var requestUrl = new URL(event.request.url);    
+    
+
+        event.respondWith(
+            caches.open(staticCacheName).then(function(cache) {
+
+                //console.log('DAMN:'+event.request.url);
+                return cache.match(event.request.url).then(function(response) {
+                    if (response) return response;
+
+                    return fetch(event.request).then(function(networkResponse) {
+                        cache.put(event.request.url, networkResponse.clone());
+                        return networkResponse;
+                    });
+                });
+            })
+        );    
+    
+    
+});
+//*/
