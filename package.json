@@ -11,8 +11,7 @@
     "react-redux": "^4.4.5",
     "react-router": "^2.8.1",
     "redux": "^3.5.2",
-    "redux-persist": "^4.0.0-alpha5",
-    "redux-undo": "^1.0.0-beta9"
+    "redux-persist": "^4.0.0-alpha5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,3 +23,5 @@
     "extends": "./node_modules/react-scripts/config/eslint.js"
   }
 }
+    
+    

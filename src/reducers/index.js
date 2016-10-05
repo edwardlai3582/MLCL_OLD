@@ -1,14 +1,10 @@
 import { combineReducers } from 'redux'
-import todos from './todos'
-import visibilityFilter from './visibilityFilter'
 import owned from './owned'
 import wanted from './wanted'
 
-const todoApp = combineReducers({
-  todos,
-  visibilityFilter,
+const mlcl = combineReducers({
   owned,
   wanted    
 })
 
-export default todoApp
+export default mlcl

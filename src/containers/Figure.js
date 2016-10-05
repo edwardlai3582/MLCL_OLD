@@ -1,10 +1,11 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
+import { bindActionCreators } from 'redux'
 import { addOwned, removeOwned, addWanted, removeWanted } from '../actions'
 
 import '../styles/Figure.css'
 
-let Figure = ({ dispatch, figureData,figureBrand, owned, wanted}) => {
+let Figure = ({ figureData,figureBrand, owned, wanted, addOwned, removeOwned, addWanted, removeWanted}) => {
     
     return (
         <div className="figureWrapper">
@@ -13,12 +14,11 @@ let Figure = ({ dispatch, figureData,figureBrand, owned, wanted}) => {
             <div className="roundedOne">
                 <input type="checkbox" id={figureData.id} value="None" checked={(figureData.id in owned)} onChange={() => {
                     if(figureData.id in owned){
-                        dispatch(removeOwned(figureData.id))
+                        removeOwned(figureData.id);
                     }
                     else{
                         figureData.Brand=figureBrand;
-                        console.log(JSON.stringify(figureData));
-                        dispatch(addOwned(figureData))    
+                        addOwned(figureData);   
                     }
                 }} />
                 <label htmlFor={figureData.id}></label>
@@ -30,11 +30,11 @@ let Figure = ({ dispatch, figureData,figureBrand, owned, wanted}) => {
             </div>
             <button className={(figureData.id in wanted)?'figureButton remove':'figureButton add'} onClick={() => {
                 if(figureData.id in wanted){
-                    dispatch(removeWanted(figureData.id))
+                    removeWanted(figureData.id);
                 }
                 else{
                     figureData.Brand=figureBrand;
-                    dispatch(addWanted(figureData))    
+                    addWanted(figureData);    
                 }
             }} >
                 {(figureData.id in wanted)?'-':'+'}
@@ -47,9 +47,19 @@ Figure.propTypes = {
   figureData: PropTypes.object,
   figureBrand: PropTypes.string,
 }
+
 const mapStateToProps = (state) => ({
   owned: state.owned,
   wanted: state.wanted    
 })
 
-export default connect( mapStateToProps, null)(Figure)
+const mapDispatchToProps = (dispatch) => (
+  bindActionCreators({
+    addOwned: addOwned, 
+    removeOwned: removeOwned,
+    removeWanted: removeWanted,
+    addWanted: addWanted
+  }, dispatch)
+)
+
+export default connect( mapStateToProps, mapDispatchToProps)(Figure)

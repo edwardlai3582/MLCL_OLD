@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 import MLData from '../ML.json'
 import '../styles/HomePage.css'
 
-let HomePAge = ({ dispatch, owned}) => {
+let HomePAge = ({ owned}) => {
     let totalNumber = 0;
                             
     for (let key1 in MLData) {

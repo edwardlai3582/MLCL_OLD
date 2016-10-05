@@ -1,10 +1,11 @@
 import React from 'react'
 import { connect } from 'react-redux'
+import { bindActionCreators } from 'redux'
 import { removeWanted } from '../actions'
 
 import '../styles/WantList.css'
 
-let WantList = ({ dispatch, wanted}) => {
+let WantList = ({wanted, removeWanted}) => {
     let wantArray=[];
     for (var key in wanted) {
         if (wanted.hasOwnProperty(key)) {
@@ -30,7 +31,7 @@ let WantList = ({ dispatch, wanted}) => {
                 {wantArray.map(figure =>
                     <li key={figure.id} className="figureLi">
                         {figure.series}: {figure.name}
-                        <button onClick={() => {dispatch(removeWanted(figure.id))}} >
+                        <button onClick={() => {removeWanted(figure.id)}} >
                             {'Remove'}
                         </button>
                     </li>
@@ -45,4 +46,9 @@ const mapStateToProps = (state) => ({
   wanted: state.wanted    
 })
 
-export default connect( mapStateToProps, null)(WantList)
+const mapDispatchToProps = (dispatch) => (
+  bindActionCreators({
+    removeWanted: removeWanted
+  }, dispatch)
+)
+export default connect( mapStateToProps, mapDispatchToProps)(WantList)

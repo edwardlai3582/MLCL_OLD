@@ -1,5 +1,4 @@
 import React, { PropTypes } from 'react'
-import { connect } from 'react-redux'
 import '../styles/Series.css'
 import Figure from '../containers/Figure'
 
@@ -32,6 +31,16 @@ class Series extends React.Component {
         let seriesTitleStyle = {
             background: "linear-gradient(to right,#AFC23C "+completion+"%, #D0FA58 "+completion+"%)"
         };
+        //check duplicate key
+        /*
+        let temp=[]
+        seriesData.figures.forEach((element, index, array)=>{
+            if(temp.indexOf(element.id)!==-1){
+                console.log(element.id);
+            }
+            temp.push(element.id);
+        });
+        */
         
         return(
             <div className="seriesWrapper">
@@ -71,11 +80,8 @@ class Series extends React.Component {
 
 Series.propTypes = {
   seriesData: PropTypes.object,
-  seriesBrand: PropTypes.string    
+  seriesBrand: PropTypes.string,
+  own: PropTypes.array    
 }
 
-const mapStateToProps = (state) => ({
-  owned: state.owned   
-})
-
-export default connect( mapStateToProps, null)(Series)
+export default Series
