@@ -1808,6 +1808,76 @@
                 ]
             }
             
+        ],
+        "Hulk Classics": [
+            {
+                "seriesname": "Hulk Classics Series 1",
+                "date": "200403",
+                "figures": [
+                    {
+                        "id": "HulkClassicsSeries1Abomination",
+                        "name": "Abomination",
+                        "series": "Hulk Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries1JoeFixit",
+                        "name": "Joe Fixit",
+                        "series": "Hulk Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries1SavageHulk",
+                        "name": "Savage Hulk",
+                        "series": "Hulk Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries1SmartHulk",
+                        "name": "Smart Hulk",
+                        "series": "Hulk Classics Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "seriesname": "Hulk Classics Series 2",
+                "date": "200405",
+                "figures": [
+                    {
+                        "id": "HulkClassicsSeries2AbsorbingMan",
+                        "name": "Absorbing Man",
+                        "series": "Hulk Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries2GammaPunchHulk",
+                        "name": "Gamma Punch Hulk",
+                        "series": "Hulk Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries2WarHulk",
+                        "name": "War Hulk",
+                        "series": "Hulk Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "HulkClassicsSeries2MechaHulk",
+                        "name": "Mecha Hulk",
+                        "series": "Hulk Classics Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                ]
+            }
         ]
     },
     "Hasbro": {
