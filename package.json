@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.6.1"
+    "eslint": "^3.6.0",
+    "eslint-config-airbnb": "^12.0.0",
+    "react-scripts": "0.6.1",
+    "sw-precache": "^4.0.0"
   },
   "dependencies": {
     "react": "^15.3.0",
@@ -11,17 +14,17 @@
     "react-redux": "^4.4.5",
     "react-router": "^2.8.1",
     "redux": "^3.5.2",
-    "redux-persist": "^4.0.0-alpha5"
+    "redux-persist": "^4.0.0-alpha5",
+    "sw-precache": "^4.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp ./public/manifest.json ./public/cache-polyfill.js ./public/favicon.ico build/ && sw-precache --navigate-fallback=\"index.html\" --root=\"build/\" --static-file-globs=\"build/**/!(*map*)\"",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+    "homepage":"https://mlcl.herokuapp.com/",
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
   }
 }
-    
-    

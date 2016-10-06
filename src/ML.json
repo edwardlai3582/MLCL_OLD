@@ -2523,8 +2523,15 @@
                 "date": "201301",
                 "figures": [
                     {
-                        "id": "EpicHeroesDeadpool",
-                        "name": "Deadpool",
+                        "id": "EpicHeroesX-ForceDeadpool",
+                        "name": "X-Force Deadpool",
+                        "series": "Epic Heroes",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "EpicHeroesDeadpoolUKexclusive",
+                        "name": "Deadpool UK exclusive",
                         "series": "Epic Heroes",
                         "quantity": "0",
                         "img": ""
