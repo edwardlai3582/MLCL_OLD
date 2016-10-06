@@ -7,6 +7,7 @@
 .homeWrapper {
     position: relative;
     width: 100%;
+    color: black;
 }
 
 .homeHero {
@@ -49,6 +50,7 @@
 .homeABout article {
     text-align: left;
     display: inline-block;
+    color: black;
 }
 
 .homeFooter {
@@ -61,4 +63,5 @@
 
 .homeFooter article {
     display: inline-block;
+    color: black;
 }

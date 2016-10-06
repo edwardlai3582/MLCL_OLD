@@ -13,8 +13,8 @@ html, body {
     width: 100%;
     height:100%;
     position: relative;
-    background-color: black;/*#D6F2F6*/
-    color: #AFC23C;
+    background-color: white;/*#D6F2F6*/
+    color: black;
 }
 
 button {

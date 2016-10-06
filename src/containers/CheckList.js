@@ -81,7 +81,7 @@ class CheckList extends React.Component {
         }
         
         return (
-            <div>
+            <div className="checkListWrapper">
                 <div className="tOrHWrapper">
                     <button className={toybizButtonClass} onClick={
                         this.ClickToToybiz

@@ -10,6 +10,7 @@
     top: 10px;
     background-color: white;
     padding-bottom: 30px;
+    color: black;
 }
 
 @media only screen and (max-width: 350px) {
@@ -21,6 +22,7 @@
 
 .wantlistWrapper {
     background-color: white;
+    color: black;
 }
 
 .wantlistWrapper h2 {
